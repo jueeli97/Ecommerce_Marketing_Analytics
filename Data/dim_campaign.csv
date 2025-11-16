@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel_id,start_date,end_date,target_segment
+1,Paid Search_Q1_2025,1,2025-01-01,2025-03-31,Returning
+2,Paid Search_Q2_2025,1,2025-04-01,2025-06-30,High-Value
+3,Organic Search_Q1_2025,2,2025-01-01,2025-03-31,High-Value
+4,Organic Search_Q2_2025,2,2025-04-01,2025-06-30,High-Value
+5,Email_Q1_2025,3,2025-01-01,2025-03-31,High-Value
+6,Email_Q2_2025,3,2025-04-01,2025-06-30,New Users
+7,Social_Q1_2025,4,2025-01-01,2025-03-31,Cart Abandoners
+8,Social_Q2_2025,4,2025-04-01,2025-06-30,Loyalty
+9,Display_Q1_2025,5,2025-01-01,2025-03-31,High-Value
+10,Display_Q2_2025,5,2025-04-01,2025-06-30,New Users
+11,Referral_Q1_2025,6,2025-01-01,2025-03-31,New Users
+12,Referral_Q2_2025,6,2025-04-01,2025-06-30,New Users

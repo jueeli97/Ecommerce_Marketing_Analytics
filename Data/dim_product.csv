@@ -1,0 +1,1001 @@
+product_id,sku,product_name,category,subcategory,brand,unit_price,cost_price
+1,ZMCPR5US,Orion Fashion Accessories 1,Fashion,Accessories,Orion,155.49,81.41
+2,JRYPGIMF,Aurora Sports Team Sports 2,Sports,Team Sports,Aurora,137.29000000000002,106.48
+3,PQLNT9IX,Orion Fashion Shoes 3,Fashion,Shoes,Orion,66.89,34.27
+4,WKM3YGO2,ZenX Home Storage 4,Home,Storage,ZenX,178.47,106.06
+5,LZ2IASI9,Luna Toys STEM 5,Toys,STEM,Luna,96.44,73.26
+6,3ZUWMOKB,Pulse Sports Fitness 6,Sports,Fitness,Pulse,140.82999999999998,109.92
+7,WWHCN2H4,Aurora Beauty Skincare 7,Beauty,Skincare,Aurora,155.57,112.07
+8,S3MVLWI3,ZenX Toys Action Figures 8,Toys,Action Figures,ZenX,60.27,35.26
+9,HFXUYWXH,Nimbus Home Storage 9,Home,Storage,Nimbus,86.62,64.56
+10,64EBDML0,Luna Toys Board Games 10,Toys,Board Games,Luna,234.91,165.5
+11,6599B3DN,Vertex Home Furniture 11,Home,Furniture,Vertex,148.53,97.55
+12,L0W5ZCRR,Vertex Electronics Laptop 12,Electronics,Laptop,Vertex,164.03,127.32
+13,UXJY3SCL,Nimbus Toys STEM 13,Toys,STEM,Nimbus,53.42,33.85
+14,YVMPAIY7,Nova Books Academic 14,Books,Academic,Nova,113.09,75.27
+15,52MF21MS,Vertex Books Comics 15,Books,Comics,Vertex,148.31,89.48
+16,19U9RFHL,ZenX Sports Fitness 16,Sports,Fitness,ZenX,118.46,60.72
+17,8ICBRP2K,Aurora Home Storage 17,Home,Storage,Aurora,68.42,49.09
+18,KHE4NV58,ZenX Electronics Camera 18,Electronics,Camera,ZenX,111.19,59.13
+19,RBISN0ML,Orion Toys Action Figures 19,Toys,Action Figures,Orion,238.87,125.91
+20,JX6JNGBB,Orion Home Decor 20,Home,Decor,Orion,146.28,82.14
+21,CLFOORIF,ZenX Sports Cycling 21,Sports,Cycling,ZenX,185.26,130.35
+22,BMLZLVRY,Acme Home Decor 22,Home,Decor,Acme,91.18,46.42
+23,AHZIGP81,Pulse Beauty Fragrance 23,Beauty,Fragrance,Pulse,189.52,139.79
+24,7Y7UWDA7,Nimbus Beauty Haircare 24,Beauty,Haircare,Nimbus,62.19,34.04
+25,OXD89BWG,Luna Toys Action Figures 25,Toys,Action Figures,Luna,133.17000000000002,81.45
+26,9VK5UI5X,Vertex Fashion Accessories 26,Fashion,Accessories,Vertex,58.7,44.87
+27,GLDNEUXA,Pulse Books Academic 27,Books,Academic,Pulse,90.77,67.39
+28,R4HN56S8,ZenX Beauty Haircare 28,Beauty,Haircare,ZenX,180.45,102.8
+29,HBEWRRJ4,Acme Toys Action Figures 29,Toys,Action Figures,Acme,67.12,47.25
+30,SQJ8PG16,Acme Books Comics 30,Books,Comics,Acme,129.2,81.51
+31,PS3L6QSG,Orion Sports Team Sports 31,Sports,Team Sports,Orion,33.2,20.8
+32,V2UN2ONA,Orion Beauty Haircare 32,Beauty,Haircare,Orion,45.91,23.46
+33,WI5AFWI0,Pulse Electronics Camera 33,Electronics,Camera,Pulse,77.32,48.61
+34,DCWRIKB7,Acme Toys STEM 34,Toys,STEM,Acme,107.9,74.19
+35,O5GFKTKG,Pulse Toys STEM 35,Toys,STEM,Pulse,94.66,74.22
+36,KVP6V72A,ZenX Fashion Mens 36,Fashion,Mens,ZenX,101.78,61.43
+37,HNN5PUT0,Luna Electronics Camera 37,Electronics,Camera,Luna,165.88,120.41
+38,Q0HUZXC2,Echo Electronics Mobile 38,Electronics,Mobile,Echo,103.98,70.22
+39,421H9HN9,Nova Sports Fitness 39,Sports,Fitness,Nova,34.18,19.88
+40,CWEUIQGT,Acme Books Comics 40,Books,Comics,Acme,150.66,102.4
+41,STPZVAUB,Vertex Fashion Mens 41,Fashion,Mens,Vertex,129.95999999999998,78.62
+42,MSQJRCUU,Luna Fashion Shoes 42,Fashion,Shoes,Luna,68.01,41.38
+43,5BZU5DLO,Acme Toys Puzzles 43,Toys,Puzzles,Acme,98.25,62.51
+44,VLG80S4X,Acme Sports Team Sports 44,Sports,Team Sports,Acme,90.12,57.01
+45,FS4FTFAA,Pulse Sports Outdoor 45,Sports,Outdoor,Pulse,177.13,130.1
+46,MIQ6PIYR,Nimbus Sports Cycling 46,Sports,Cycling,Nimbus,105.82,76.99
+47,BX7YL629,Orion Beauty Fragrance 47,Beauty,Fragrance,Orion,340.34,177.25
+48,M3LZSP4E,Orion Fashion Accessories 48,Fashion,Accessories,Orion,107.4,68.59
+49,JLT03Q8J,Pulse Electronics Accessories 49,Electronics,Accessories,Pulse,56.760000000000005,28.76
+50,LBEHOTYZ,ZenX Fashion Womens 50,Fashion,Womens,ZenX,170.13,85.38
+51,NX5UI2U3,Acme Fashion Womens 51,Fashion,Womens,Acme,77.87,55.03
+52,B9NEBWTB,Aurora Books Non-Fiction 52,Books,Non-Fiction,Aurora,95.12,66.36
+53,WPV4DQQF,Acme Home Storage 53,Home,Storage,Acme,91.87,54.66
+54,W1U2WGAE,ZenX Home Decor 54,Home,Decor,ZenX,62.97,47.68
+55,JJ2H5UQX,Nova Electronics Laptop 55,Electronics,Laptop,Nova,45.67,29.09
+56,HWIADER5,Echo Toys STEM 56,Toys,STEM,Echo,80.19,44.64
+57,W4868TYX,Aurora Toys Puzzles 57,Toys,Puzzles,Aurora,128.51999999999998,76.25
+58,N9FAJB0M,Echo Toys Puzzles 58,Toys,Puzzles,Echo,67.28999999999999,46.21
+59,J46PCAPO,Aurora Books Academic 59,Books,Academic,Aurora,148.2,117.55
+60,L9ONTSRC,Luna Beauty Makeup 60,Beauty,Makeup,Luna,134.94,100.58
+61,LJSBLW8V,Acme Beauty Makeup 61,Beauty,Makeup,Acme,87.1,45.2
+62,VT8YXRTF,Aurora Beauty Skincare 62,Beauty,Skincare,Aurora,139.13,72.16
+63,MI3XUW1E,Echo Home Furniture 63,Home,Furniture,Echo,132.38,71.73
+64,XUENUXBN,Aurora Books Comics 64,Books,Comics,Aurora,167.51999999999998,127.54
+65,320LAHC5,Nimbus Toys STEM 65,Toys,STEM,Nimbus,66.31,52.07
+66,1RA4UBJP,Nimbus Toys Action Figures 66,Toys,Action Figures,Nimbus,203.99,152.83
+67,Z28NBHH8,Luna Toys Puzzles 67,Toys,Puzzles,Luna,94.59,62.61
+68,QTY6PQHA,ZenX Electronics Accessories 68,Electronics,Accessories,ZenX,126.82,66.46
+69,FAOM3X64,Nimbus Electronics Mobile 69,Electronics,Mobile,Nimbus,72.93,39.98
+70,30D3IYBK,ZenX Fashion Accessories 70,Fashion,Accessories,ZenX,73.19,46.41
+71,N5YE38E8,Acme Sports Team Sports 71,Sports,Team Sports,Acme,75.27,59.67
+72,DHWZ2PT1,Luna Sports Cycling 72,Sports,Cycling,Luna,105.61,82.27
+73,84J0XBP0,ZenX Fashion Shoes 73,Fashion,Shoes,ZenX,120.09,90.05
+74,V9Y3GXCZ,Nova Toys Board Games 74,Toys,Board Games,Nova,135.3,95.46
+75,JM9AIZEA,Nimbus Sports Team Sports 75,Sports,Team Sports,Nimbus,118.23,74.35
+76,D3VZ5PT3,ZenX Sports Cycling 76,Sports,Cycling,ZenX,43.06,21.56
+77,GUER98ZS,Vertex Home Storage 77,Home,Storage,Vertex,145.29000000000002,83.25
+78,ORJY5NT7,Echo Beauty Haircare 78,Beauty,Haircare,Echo,124.16,78.3
+79,OMU2L7A4,Echo Beauty Haircare 79,Beauty,Haircare,Echo,52.43,41.37
+80,NAQLTWMX,Nimbus Books Fiction 80,Books,Fiction,Nimbus,60.8,39.87
+81,9XIA2I98,Luna Fashion Accessories 81,Fashion,Accessories,Luna,72.81,44.34
+82,HIPUARBQ,ZenX Beauty Skincare 82,Beauty,Skincare,ZenX,72.2,50.05
+83,6W9G9X6P,Nova Beauty Makeup 83,Beauty,Makeup,Nova,115.47,58.87
+84,8T8Z0C6F,ZenX Home Storage 84,Home,Storage,ZenX,79.8,46.16
+85,QW5A0SXQ,Echo Home Decor 85,Home,Decor,Echo,141.64,87.76
+86,I40M1TIO,Acme Beauty Skincare 86,Beauty,Skincare,Acme,139.20999999999998,85.4
+87,BUB6Y06V,Luna Toys Action Figures 87,Toys,Action Figures,Luna,50.61,25.9
+88,YNGSBYWG,Aurora Beauty Makeup 88,Beauty,Makeup,Aurora,99.81,71.8
+89,HXHFN63Q,Nova Beauty Fragrance 89,Beauty,Fragrance,Nova,63.15,42.97
+90,Z3MAICHS,Aurora Sports Team Sports 90,Sports,Team Sports,Aurora,80.93,63.62
+91,7DI63JZK,Pulse Home Bedding 91,Home,Bedding,Pulse,88.7,50.44
+92,GPYSC4RB,Orion Fashion Mens 92,Fashion,Mens,Orion,98.35,74.0
+93,BSQM3AA7,Pulse Toys Action Figures 93,Toys,Action Figures,Pulse,87.29,44.28
+94,ULLODFT5,Aurora Books Academic 94,Books,Academic,Aurora,149.61,104.29
+95,NVIW7Y82,Acme Electronics Audio 95,Electronics,Audio,Acme,104.3,80.6
+96,R08H6BFM,Nimbus Home Bedding 96,Home,Bedding,Nimbus,79.99000000000001,44.52
+97,T1KLQO5C,Pulse Electronics Audio 97,Electronics,Audio,Pulse,51.55,32.56
+98,PO5KGSP8,Nimbus Toys Puzzles 98,Toys,Puzzles,Nimbus,119.05,80.08
+99,X0FMVXQ6,Nimbus Fashion Accessories 99,Fashion,Accessories,Nimbus,79.77000000000001,46.47
+100,XT4DVKWV,ZenX Books Academic 100,Books,Academic,ZenX,114.18,63.56
+101,RACO7T3N,Nimbus Fashion Womens 101,Fashion,Womens,Nimbus,131.59,78.03
+102,77OL2WTZ,Aurora Books Fiction 102,Books,Fiction,Aurora,78.42,44.67
+103,HUALW8T1,ZenX Home Furniture 103,Home,Furniture,ZenX,105.83,77.22
+104,XO5Q85TL,Orion Home Storage 104,Home,Storage,Orion,119.25,81.68
+105,O5AGKMXO,ZenX Sports Team Sports 105,Sports,Team Sports,ZenX,106.14,59.13
+106,ZSXR5VGH,Orion Electronics Mobile 106,Electronics,Mobile,Orion,158.32,110.75
+107,A0WOM0SP,Vertex Fashion Shoes 107,Fashion,Shoes,Vertex,70.72,38.56
+108,PYSAC7ZP,Echo Books Fiction 108,Books,Fiction,Echo,97.14,70.05
+109,3J4LYIPU,Luna Home Decor 109,Home,Decor,Luna,71.4,50.37
+110,6SF3OY11,ZenX Fashion Womens 110,Fashion,Womens,ZenX,102.18,75.33
+111,BX9RTJRW,Nimbus Fashion Accessories 111,Fashion,Accessories,Nimbus,155.01,107.03
+112,VVVV9DGK,Acme Fashion Mens 112,Fashion,Mens,Acme,77.57,46.28
+113,TS1KR0QS,ZenX Books Academic 113,Books,Academic,ZenX,73.53,49.41
+114,UCA7Y7XG,ZenX Sports Team Sports 114,Sports,Team Sports,ZenX,193.03,116.2
+115,ZI8ZATKS,Nimbus Books Non-Fiction 115,Books,Non-Fiction,Nimbus,218.07,172.37
+116,UZVCNZSM,Pulse Books Fiction 116,Books,Fiction,Pulse,154.25,115.44
+117,AIIG5HF6,Nova Sports Fitness 117,Sports,Fitness,Nova,148.19,76.07
+118,V4IKDYBA,Nova Home Decor 118,Home,Decor,Nova,132.42000000000002,74.04
+119,MFYQ325K,Aurora Home Decor 119,Home,Decor,Aurora,194.05,129.0
+120,P2TF4217,Vertex Toys Board Games 120,Toys,Board Games,Vertex,51.36,30.45
+121,ODOR2ABB,Echo Fashion Accessories 121,Fashion,Accessories,Echo,49.25,29.31
+122,V6RUIKM8,Acme Electronics Mobile 122,Electronics,Mobile,Acme,127.01,75.97
+123,OMXJRNZ8,Nimbus Home Kitchen 123,Home,Kitchen,Nimbus,122.5,69.48
+124,JUDTEYPQ,Vertex Electronics Camera 124,Electronics,Camera,Vertex,61.879999999999995,42.87
+125,QQK3DQSO,Pulse Fashion Mens 125,Fashion,Mens,Pulse,125.77,77.53
+126,TY0JCR18,Nova Books Academic 126,Books,Academic,Nova,89.63,61.54
+127,NWN1B1NA,Nova Beauty Makeup 127,Beauty,Makeup,Nova,165.17000000000002,118.27
+128,VWSJ03XN,Orion Home Kitchen 128,Home,Kitchen,Orion,156.42000000000002,110.17
+129,JGA5T7EF,Echo Fashion Mens 129,Fashion,Mens,Echo,83.39,63.36
+130,ZPMMXWXH,Nimbus Sports Cycling 130,Sports,Cycling,Nimbus,188.42,101.12
+131,5W02K696,ZenX Home Storage 131,Home,Storage,ZenX,142.51,107.3
+132,USFGXUSP,Nova Books Academic 132,Books,Academic,Nova,104.84,72.21
+133,FP78G4HT,Aurora Fashion Accessories 133,Fashion,Accessories,Aurora,99.67,75.5
+134,RV91VND2,Nova Home Bedding 134,Home,Bedding,Nova,43.86,34.04
+135,4ASOF1Z6,Nimbus Sports Team Sports 135,Sports,Team Sports,Nimbus,108.61,82.32
+136,V2TUF2Y2,Aurora Sports Cycling 136,Sports,Cycling,Aurora,104.0,56.2
+137,3I3XLG4I,Nova Fashion Womens 137,Fashion,Womens,Nova,73.24,58.01
+138,WQTE7LO4,Luna Toys Board Games 138,Toys,Board Games,Luna,160.96,121.06
+139,V35MXE21,Aurora Books Comics 139,Books,Comics,Aurora,135.1,100.11
+140,GTGYGMV7,Orion Toys STEM 140,Toys,STEM,Orion,123.5,68.08
+141,8EN2LBGF,Echo Toys Puzzles 141,Toys,Puzzles,Echo,145.65,113.61
+142,KKW5GF72,Aurora Home Bedding 142,Home,Bedding,Aurora,94.28999999999999,65.14
+143,WCO649JC,ZenX Books Academic 143,Books,Academic,ZenX,125.68,71.05
+144,M2Q2XQKK,Nimbus Home Decor 144,Home,Decor,Nimbus,119.43,82.9
+145,CURCNKVT,Orion Sports Team Sports 145,Sports,Team Sports,Orion,124.96,69.66
+146,WWDZLI2C,Vertex Home Storage 146,Home,Storage,Vertex,105.67,76.59
+147,10C929J0,Acme Toys Board Games 147,Toys,Board Games,Acme,112.26,64.17
+148,SU2VOL1H,Acme Toys Action Figures 148,Toys,Action Figures,Acme,49.57,30.08
+149,8ZKG9JXK,Nova Electronics Audio 149,Electronics,Audio,Nova,125.56,100.1
+150,UCV9U7DV,ZenX Books Academic 150,Books,Academic,ZenX,64.44,49.04
+151,TTEK404U,Orion Sports Outdoor 151,Sports,Outdoor,Orion,103.74000000000001,73.04
+152,D8M41QIM,Vertex Beauty Skincare 152,Beauty,Skincare,Vertex,96.03,56.61
+153,B5P439EK,Luna Fashion Mens 153,Fashion,Mens,Luna,174.94,120.74
+154,O6E0ARKR,ZenX Sports Outdoor 154,Sports,Outdoor,ZenX,112.11,56.35
+155,EEQEFTY7,Echo Toys Action Figures 155,Toys,Action Figures,Echo,134.79000000000002,92.96
+156,ME88ASV0,Nimbus Beauty Fragrance 156,Beauty,Fragrance,Nimbus,107.03999999999999,73.05
+157,SYC2XH5D,Nova Toys STEM 157,Toys,STEM,Nova,67.95,47.49
+158,M2GH8ARO,Acme Electronics Laptop 158,Electronics,Laptop,Acme,69.38,39.91
+159,AAJIK8ED,ZenX Fashion Accessories 159,Fashion,Accessories,ZenX,123.36,70.52
+160,30B7I40U,Echo Home Storage 160,Home,Storage,Echo,123.83,86.42
+161,NRW3APCB,Pulse Sports Fitness 161,Sports,Fitness,Pulse,101.65,56.8
+162,A6AEFTIS,Aurora Books Fiction 162,Books,Fiction,Aurora,99.32,54.66
+163,0OJZNJFX,ZenX Home Decor 163,Home,Decor,ZenX,104.83,55.23
+164,51YYHC6S,Pulse Fashion Shoes 164,Fashion,Shoes,Pulse,272.9,210.38
+165,7FMLG01F,Vertex Toys Action Figures 165,Toys,Action Figures,Vertex,115.53,84.42
+166,L232086W,Orion Fashion Mens 166,Fashion,Mens,Orion,141.89,87.74
+167,7TMWUI04,Pulse Sports Fitness 167,Sports,Fitness,Pulse,90.66,51.97
+168,EEPE7Z6V,Luna Electronics Accessories 168,Electronics,Accessories,Luna,132.32999999999998,70.36
+169,6FHVK1NN,Nova Books Fiction 169,Books,Fiction,Nova,88.03999999999999,57.5
+170,SON3AAEA,Aurora Home Bedding 170,Home,Bedding,Aurora,56.24,42.65
+171,9XM9D0DI,Echo Home Storage 171,Home,Storage,Echo,128.89,94.98
+172,TTEPZQ75,Nimbus Home Decor 172,Home,Decor,Nimbus,137.78,92.31
+173,H056GIF1,Vertex Sports Outdoor 173,Sports,Outdoor,Vertex,148.82,116.28
+174,BWF3PWKP,Orion Fashion Womens 174,Fashion,Womens,Orion,79.63,52.01
+175,7DD0VTK6,Nimbus Fashion Womens 175,Fashion,Womens,Nimbus,76.83,58.37
+176,Z1GESXTI,Pulse Books Fiction 176,Books,Fiction,Pulse,74.71000000000001,45.51
+177,WXT8G2B2,Pulse Books Academic 177,Books,Academic,Pulse,117.18,86.9
+178,A1FFPXF8,Echo Fashion Shoes 178,Fashion,Shoes,Echo,103.29,53.84
+179,A4U436FF,Aurora Fashion Womens 179,Fashion,Womens,Aurora,94.64,63.23
+180,L5KRDQCG,Luna Books Comics 180,Books,Comics,Luna,114.23,64.42
+181,L9I9IU4W,Luna Home Furniture 181,Home,Furniture,Luna,257.57,145.51
+182,S1IB85MC,Nova Electronics Camera 182,Electronics,Camera,Nova,60.79,35.45
+183,FJVL67QF,Aurora Books Comics 183,Books,Comics,Aurora,190.44,123.54
+184,SK0L9ILD,Acme Home Kitchen 184,Home,Kitchen,Acme,143.98,95.57
+185,DV4JIPA5,ZenX Toys Board Games 185,Toys,Board Games,ZenX,149.01,100.54
+186,YC2R5QXP,Nimbus Home Decor 186,Home,Decor,Nimbus,142.25,94.49
+187,DO492SJF,Echo Electronics Audio 187,Electronics,Audio,Echo,67.11,34.04
+188,2RR0DUXU,Vertex Sports Cycling 188,Sports,Cycling,Vertex,141.44,94.28
+189,E1PCJQ4S,Orion Books Fiction 189,Books,Fiction,Orion,63.13,32.26
+190,P2WIP9PN,Pulse Electronics Laptop 190,Electronics,Laptop,Pulse,197.47,105.43
+191,1X49Y72Y,Nimbus Beauty Makeup 191,Beauty,Makeup,Nimbus,98.45,58.41
+192,JEEGV348,Echo Toys Action Figures 192,Toys,Action Figures,Echo,171.52,90.48
+193,BKBPL6AM,Nova Books Fiction 193,Books,Fiction,Nova,135.26999999999998,69.2
+194,WW2F1XSG,Acme Home Bedding 194,Home,Bedding,Acme,142.93,97.59
+195,9RLL47ML,Aurora Sports Outdoor 195,Sports,Outdoor,Aurora,106.27,57.84
+196,EUFS53HG,Acme Home Kitchen 196,Home,Kitchen,Acme,141.05,77.1
+197,VRK8UF8Q,Nimbus Beauty Haircare 197,Beauty,Haircare,Nimbus,88.5,51.09
+198,LF4DLPZB,Aurora Fashion Accessories 198,Fashion,Accessories,Aurora,157.66,97.65
+199,FH8BUYMX,Aurora Books Academic 199,Books,Academic,Aurora,103.95,69.85
+200,OSKM9FB9,ZenX Home Furniture 200,Home,Furniture,ZenX,137.65,86.68
+201,VLMVSW80,Pulse Sports Fitness 201,Sports,Fitness,Pulse,99.44,52.81
+202,TM45B4CP,Aurora Beauty Fragrance 202,Beauty,Fragrance,Aurora,143.20999999999998,92.15
+203,54YXGGV8,ZenX Electronics Camera 203,Electronics,Camera,ZenX,56.91,34.88
+204,XMAZEBW2,Echo Home Kitchen 204,Home,Kitchen,Echo,41.72,23.2
+205,HCZURJO5,Aurora Books Non-Fiction 205,Books,Non-Fiction,Aurora,92.53,60.56
+206,1CZ6VW58,ZenX Beauty Skincare 206,Beauty,Skincare,ZenX,96.6,71.36
+207,NZ0NM7PZ,Vertex Home Storage 207,Home,Storage,Vertex,97.14,54.59
+208,SSB1VR3M,Nova Toys Board Games 208,Toys,Board Games,Nova,95.7,48.32
+209,F1JL6VZ0,Aurora Beauty Fragrance 209,Beauty,Fragrance,Aurora,115.79,77.19
+210,0PWBZW4F,Pulse Fashion Womens 210,Fashion,Womens,Pulse,152.25,107.04
+211,Q81YHTWY,Aurora Fashion Womens 211,Fashion,Womens,Aurora,101.11,57.19
+212,O8RT1TM5,Nova Toys Board Games 212,Toys,Board Games,Nova,92.18,48.13
+213,JFRTKYYS,Aurora Sports Cycling 213,Sports,Cycling,Aurora,73.77000000000001,51.63
+214,NLAYJRB2,Vertex Sports Team Sports 214,Sports,Team Sports,Vertex,150.31,94.75
+215,Q00BNCYJ,Vertex Home Decor 215,Home,Decor,Vertex,113.63,69.33
+216,S4YGHZBA,Pulse Toys Board Games 216,Toys,Board Games,Pulse,95.94,64.74
+217,2BNP3258,Acme Fashion Accessories 217,Fashion,Accessories,Acme,125.08,68.62
+218,Y8USHYNN,Aurora Books Fiction 218,Books,Fiction,Aurora,57.85,42.6
+219,KCMH9SPN,Aurora Books Comics 219,Books,Comics,Aurora,163.26999999999998,120.78
+220,WGNI37NX,Nimbus Sports Outdoor 220,Sports,Outdoor,Nimbus,62.44,44.91
+221,DTCO0K6V,ZenX Toys STEM 221,Toys,STEM,ZenX,141.71,72.28
+222,OGFTR7ZT,Nimbus Home Storage 222,Home,Storage,Nimbus,134.86,102.19
+223,393YJQ9T,Pulse Electronics Laptop 223,Electronics,Laptop,Pulse,93.59,49.6
+224,LPYBJ4SB,Aurora Beauty Skincare 224,Beauty,Skincare,Aurora,68.52000000000001,36.16
+225,Y8J30CA2,Echo Beauty Makeup 225,Beauty,Makeup,Echo,84.09,55.87
+226,27UMEWNG,Pulse Home Storage 226,Home,Storage,Pulse,131.67000000000002,86.85
+227,EK9557YT,Nimbus Home Bedding 227,Home,Bedding,Nimbus,97.66,55.99
+228,ZE6SXVQG,Nimbus Beauty Haircare 228,Beauty,Haircare,Nimbus,169.82,112.87
+229,BFWOIA4U,Nimbus Toys Board Games 229,Toys,Board Games,Nimbus,67.94,39.85
+230,TTZ537GV,Echo Fashion Accessories 230,Fashion,Accessories,Echo,156.41,119.09
+231,UQ8WG6MF,Pulse Sports Outdoor 231,Sports,Outdoor,Pulse,69.74000000000001,47.97
+232,JCAJ4WKT,Pulse Fashion Mens 232,Fashion,Mens,Pulse,89.52000000000001,48.1
+233,VQRAQFSV,ZenX Home Bedding 233,Home,Bedding,ZenX,76.7,44.16
+234,5TVAEVDJ,Aurora Toys Board Games 234,Toys,Board Games,Aurora,289.28,155.49
+235,R0TTCKYJ,Aurora Electronics Accessories 235,Electronics,Accessories,Aurora,147.21,85.55
+236,4035QWRQ,Orion Toys Action Figures 236,Toys,Action Figures,Orion,108.52,54.61
+237,LJWQPPVL,Echo Beauty Haircare 237,Beauty,Haircare,Echo,125.61,72.3
+238,VAQW4982,Pulse Toys Action Figures 238,Toys,Action Figures,Pulse,75.44,46.48
+239,YJYKCSSJ,Luna Fashion Shoes 239,Fashion,Shoes,Luna,113.74,62.79
+240,GD9XO9AG,Echo Electronics Mobile 240,Electronics,Mobile,Echo,66.08,35.62
+241,JVB0EDZJ,Nimbus Books Comics 241,Books,Comics,Nimbus,120.01,86.24
+242,URCZ94LG,Nova Toys STEM 242,Toys,STEM,Nova,101.6,77.12
+243,YLH4XP4F,Luna Fashion Shoes 243,Fashion,Shoes,Luna,140.79000000000002,80.95
+244,FW16SSQL,Pulse Electronics Audio 244,Electronics,Audio,Pulse,100.9,53.65
+245,FRNBU5EU,Vertex Fashion Womens 245,Fashion,Womens,Vertex,102.92,79.47
+246,AYVBT1EK,Echo Fashion Womens 246,Fashion,Womens,Echo,147.89,106.01
+247,YCE870E6,Pulse Books Non-Fiction 247,Books,Non-Fiction,Pulse,118.23,84.22
+248,7HEP6PQW,Nimbus Books Academic 248,Books,Academic,Nimbus,120.75999999999999,82.8
+249,LSGB0PNS,Pulse Toys Board Games 249,Toys,Board Games,Pulse,163.32,94.3
+250,8ARXC5TS,Pulse Fashion Mens 250,Fashion,Mens,Pulse,106.58,83.11
+251,198N4L97,Echo Toys Action Figures 251,Toys,Action Figures,Echo,70.28,47.1
+252,TZYM0M3L,ZenX Books Academic 252,Books,Academic,ZenX,172.37,106.18
+253,76T6Y677,Orion Home Kitchen 253,Home,Kitchen,Orion,201.7,131.42
+254,H31W7Z1S,Nova Toys Puzzles 254,Toys,Puzzles,Nova,86.95,67.7
+255,GRWO8ZMJ,Aurora Home Kitchen 255,Home,Kitchen,Aurora,133.66,73.43
+256,9X0QY9MW,Luna Beauty Haircare 256,Beauty,Haircare,Luna,90.63,57.28
+257,W0MRKBIU,Pulse Fashion Accessories 257,Fashion,Accessories,Pulse,85.05,62.61
+258,6YY6BKYV,Vertex Fashion Womens 258,Fashion,Womens,Vertex,134.72,93.61
+259,TC3L9OLV,Aurora Home Furniture 259,Home,Furniture,Aurora,173.02,115.5
+260,3RY4HNDO,Luna Beauty Skincare 260,Beauty,Skincare,Luna,72.8,39.41
+261,J4M6GWI4,ZenX Books Fiction 261,Books,Fiction,ZenX,93.1,53.59
+262,ZC90PTYV,Echo Books Academic 262,Books,Academic,Echo,53.23,36.78
+263,4XHFOK6W,Nimbus Electronics Accessories 263,Electronics,Accessories,Nimbus,110.74000000000001,74.72
+264,ISEZR2RM,Acme Fashion Mens 264,Fashion,Mens,Acme,145.76,96.34
+265,OWFEYREU,Acme Electronics Laptop 265,Electronics,Laptop,Acme,166.6,126.07
+266,K2MM06DP,Aurora Electronics Accessories 266,Electronics,Accessories,Aurora,99.19,77.36
+267,HMAEDJ1G,Acme Toys Puzzles 267,Toys,Puzzles,Acme,106.33,55.62
+268,JZESJ2LA,Orion Home Bedding 268,Home,Bedding,Orion,222.92,169.41
+269,7Y1HT0AZ,Acme Electronics Audio 269,Electronics,Audio,Acme,113.88,75.61
+270,IGXT5739,Vertex Sports Cycling 270,Sports,Cycling,Vertex,51.41,37.98
+271,44DUJC7N,Aurora Books Fiction 271,Books,Fiction,Aurora,171.37,89.03
+272,NG9K2N6N,Vertex Home Decor 272,Home,Decor,Vertex,136.4,92.73
+273,XFGKPELC,Vertex Beauty Fragrance 273,Beauty,Fragrance,Vertex,83.14,58.73
+274,GI6CZO0D,Luna Fashion Shoes 274,Fashion,Shoes,Luna,90.21000000000001,67.65
+275,ROSSCZRY,Nimbus Toys Puzzles 275,Toys,Puzzles,Nimbus,108.47,76.45
+276,KKLMXQYQ,Pulse Toys STEM 276,Toys,STEM,Pulse,174.65,89.19
+277,X29SLGOT,Nimbus Beauty Fragrance 277,Beauty,Fragrance,Nimbus,86.99000000000001,50.33
+278,QRGUUQ25,Nova Beauty Skincare 278,Beauty,Skincare,Nova,58.98,43.02
+279,BHYA2KZ3,Orion Electronics Audio 279,Electronics,Audio,Orion,139.85,105.11
+280,5DKE5XO0,Luna Books Non-Fiction 280,Books,Non-Fiction,Luna,149.44,95.46
+281,6LU2PC70,Pulse Beauty Skincare 281,Beauty,Skincare,Pulse,98.86,60.97
+282,573JCN96,Orion Beauty Skincare 282,Beauty,Skincare,Orion,88.9,63.25
+283,IDSBVJ35,Aurora Beauty Makeup 283,Beauty,Makeup,Aurora,133.57999999999998,93.31
+284,4U2SISYB,Pulse Electronics Laptop 284,Electronics,Laptop,Pulse,127.53,72.11
+285,ME6D8X3K,Acme Fashion Accessories 285,Fashion,Accessories,Acme,128.9,80.15
+286,YEJVBHAL,Nimbus Books Fiction 286,Books,Fiction,Nimbus,96.96000000000001,70.94
+287,MNU584DP,Echo Home Storage 287,Home,Storage,Echo,216.33,140.67
+288,ACZHE86E,Orion Fashion Shoes 288,Fashion,Shoes,Orion,95.85,55.85
+289,SG5PMS53,Vertex Electronics Audio 289,Electronics,Audio,Vertex,162.5,89.4
+290,QK7ETKON,Nimbus Toys Puzzles 290,Toys,Puzzles,Nimbus,171.29,129.6
+291,LMXIL2C5,Acme Fashion Shoes 291,Fashion,Shoes,Acme,136.23000000000002,98.53
+292,WYA2DVT7,Vertex Fashion Shoes 292,Fashion,Shoes,Vertex,108.54,56.52
+293,2JXHIXA0,Nimbus Fashion Womens 293,Fashion,Womens,Nimbus,106.15,60.09
+294,I2CYQJ4D,Echo Electronics Camera 294,Electronics,Camera,Echo,62.22,45.46
+295,KMGVLO2O,Orion Books Non-Fiction 295,Books,Non-Fiction,Orion,76.32,44.67
+296,FCX34XVA,Echo Books Fiction 296,Books,Fiction,Echo,68.78999999999999,50.86
+297,YKBSV8T0,Nimbus Home Furniture 297,Home,Furniture,Nimbus,74.88,44.74
+298,AA7Z4R36,Nimbus Books Academic 298,Books,Academic,Nimbus,94.92,63.44
+299,GX9C6J66,Nimbus Fashion Womens 299,Fashion,Womens,Nimbus,99.85,51.48
+300,ZR6JWXJF,Nova Sports Cycling 300,Sports,Cycling,Nova,136.5,84.79
+301,752OSI8F,Nova Books Comics 301,Books,Comics,Nova,174.62,124.56
+302,Q83GZI14,Orion Books Academic 302,Books,Academic,Orion,95.22999999999999,67.46
+303,PW7B3NX7,Vertex Books Academic 303,Books,Academic,Vertex,146.81,89.61
+304,3ZAR8FHD,Acme Home Decor 304,Home,Decor,Acme,115.83,83.59
+305,5IN4N3NG,ZenX Beauty Fragrance 305,Beauty,Fragrance,ZenX,224.31,124.44
+306,8GTCK8T0,Pulse Fashion Mens 306,Fashion,Mens,Pulse,52.11,31.76
+307,2CCZC01X,ZenX Fashion Accessories 307,Fashion,Accessories,ZenX,58.69,42.97
+308,NN81DO5J,Luna Books Non-Fiction 308,Books,Non-Fiction,Luna,209.53,107.65
+309,25QKHSH5,Pulse Electronics Laptop 309,Electronics,Laptop,Pulse,64.53,41.55
+310,DAIIDD57,Pulse Sports Outdoor 310,Sports,Outdoor,Pulse,146.47,92.67
+311,QLE191FT,Nova Beauty Makeup 311,Beauty,Makeup,Nova,120.14,66.3
+312,6AZX66ST,Aurora Beauty Makeup 312,Beauty,Makeup,Aurora,128.65,75.99
+313,CVYRRCPT,Orion Books Non-Fiction 313,Books,Non-Fiction,Orion,85.05,55.71
+314,4JJ4FHGE,Aurora Beauty Haircare 314,Beauty,Haircare,Aurora,106.75,78.1
+315,VW6SNA3B,Nova Books Comics 315,Books,Comics,Nova,140.42000000000002,98.01
+316,8M54KKFO,Nimbus Electronics Laptop 316,Electronics,Laptop,Nimbus,152.78,100.93
+317,WLUXFKGC,Echo Electronics Accessories 317,Electronics,Accessories,Echo,120.84,84.16
+318,EF6E615F,Acme Fashion Shoes 318,Fashion,Shoes,Acme,68.4,42.88
+319,H22ULXZB,Nova Books Comics 319,Books,Comics,Nova,125.39,80.92
+320,JC0UALQ3,Aurora Beauty Skincare 320,Beauty,Skincare,Aurora,62.91,34.08
+321,OE8GTQCO,Nova Electronics Camera 321,Electronics,Camera,Nova,156.18,118.53
+322,1QQHZOOG,Nimbus Electronics Mobile 322,Electronics,Mobile,Nimbus,83.22,43.23
+323,O88IFQZN,Nova Sports Cycling 323,Sports,Cycling,Nova,106.82,69.38
+324,5UWFN6C4,Vertex Home Kitchen 324,Home,Kitchen,Vertex,138.25,108.05
+325,YJP23NMG,Orion Toys Action Figures 325,Toys,Action Figures,Orion,73.33,49.68
+326,MOAAQD36,Vertex Toys Puzzles 326,Toys,Puzzles,Vertex,50.2,28.13
+327,J125ICJE,Acme Fashion Mens 327,Fashion,Mens,Acme,65.34,49.97
+328,44Q2LR18,Nova Toys STEM 328,Toys,STEM,Nova,179.67,97.03
+329,34QWT8W3,Orion Electronics Laptop 329,Electronics,Laptop,Orion,80.03999999999999,48.13
+330,0UVQ0MDZ,Nova Toys Puzzles 330,Toys,Puzzles,Nova,103.18,82.16
+331,4YRT1WCQ,Pulse Sports Cycling 331,Sports,Cycling,Pulse,133.36,105.62
+332,LBZ731XR,Nova Electronics Accessories 332,Electronics,Accessories,Nova,63.13,50.25
+333,VDEEHMA7,Aurora Home Decor 333,Home,Decor,Aurora,149.68,77.44
+334,PXCHG3JE,Vertex Fashion Accessories 334,Fashion,Accessories,Vertex,112.7,85.01
+335,BHA522EV,Nova Books Non-Fiction 335,Books,Non-Fiction,Nova,93.99000000000001,60.15
+336,SKC0AM6R,Acme Home Kitchen 336,Home,Kitchen,Acme,53.879999999999995,29.17
+337,2WOFJAU0,Luna Home Kitchen 337,Home,Kitchen,Luna,112.55,83.05
+338,V3QTGWPT,Echo Beauty Skincare 338,Beauty,Skincare,Echo,26.47,19.5
+339,5UX9KTNE,Aurora Sports Fitness 339,Sports,Fitness,Aurora,116.05,69.33
+340,0BKLVBYF,Luna Toys Board Games 340,Toys,Board Games,Luna,132.16,100.69
+341,DL89SPBQ,Acme Electronics Laptop 341,Electronics,Laptop,Acme,96.28999999999999,67.18
+342,53B0L4X0,Acme Electronics Audio 342,Electronics,Audio,Acme,165.21,121.73
+343,NP7WEGTD,ZenX Sports Outdoor 343,Sports,Outdoor,ZenX,195.9,104.41
+344,KM7N2V5Y,ZenX Beauty Makeup 344,Beauty,Makeup,ZenX,52.870000000000005,36.68
+345,6MV0AL3S,Aurora Books Fiction 345,Books,Fiction,Aurora,134.72,107.48
+346,PDOGOFIA,Luna Electronics Laptop 346,Electronics,Laptop,Luna,115.85,78.98
+347,L9TINH4N,Luna Beauty Skincare 347,Beauty,Skincare,Luna,148.39,101.48
+348,LEFZAYI7,Luna Home Furniture 348,Home,Furniture,Luna,108.53,68.55
+349,GYWVTFD0,Orion Fashion Mens 349,Fashion,Mens,Orion,154.23000000000002,120.33
+350,DUAYNKT1,Vertex Beauty Haircare 350,Beauty,Haircare,Vertex,84.06,66.92
+351,WOSS9VCK,Acme Home Storage 351,Home,Storage,Acme,162.25,121.21
+352,GM4NAM32,Luna Electronics Audio 352,Electronics,Audio,Luna,158.58,115.96
+353,UQ4NF3Z8,Echo Beauty Skincare 353,Beauty,Skincare,Echo,86.21000000000001,53.7
+354,6E5WQSOL,Acme Toys Action Figures 354,Toys,Action Figures,Acme,142.17000000000002,78.22
+355,ZSWE2KME,Nova Electronics Accessories 355,Electronics,Accessories,Nova,120.95,74.37
+356,WSFI375Y,Luna Books Academic 356,Books,Academic,Luna,90.03,56.16
+357,HY0T5GK7,Aurora Beauty Haircare 357,Beauty,Haircare,Aurora,93.05,71.33
+358,7TWLVSGF,Nimbus Sports Outdoor 358,Sports,Outdoor,Nimbus,194.16,137.59
+359,YQ9CZPB3,Luna Sports Outdoor 359,Sports,Outdoor,Luna,65.62,35.26
+360,PT3BOHTS,Echo Electronics Accessories 360,Electronics,Accessories,Echo,89.27,61.39
+361,39BA6L2I,ZenX Home Storage 361,Home,Storage,ZenX,147.07,82.69
+362,0W4SFW3R,Vertex Beauty Haircare 362,Beauty,Haircare,Vertex,93.9,71.78
+363,CAWLLOWQ,Aurora Home Bedding 363,Home,Bedding,Aurora,160.82,106.78
+364,ESBHI8JR,Nimbus Books Non-Fiction 364,Books,Non-Fiction,Nimbus,102.85,64.88
+365,MVODQCEK,Echo Home Kitchen 365,Home,Kitchen,Echo,75.21000000000001,41.7
+366,BJOVL5WG,Aurora Fashion Mens 366,Fashion,Mens,Aurora,85.76,55.79
+367,04H3QJZA,ZenX Electronics Accessories 367,Electronics,Accessories,ZenX,167.23,132.85
+368,WQ38MNIX,Vertex Books Comics 368,Books,Comics,Vertex,121.09,91.77
+369,0U87HNNT,Nova Electronics Audio 369,Electronics,Audio,Nova,62.53,31.91
+370,UC5L7NZG,Vertex Books Comics 370,Books,Comics,Vertex,92.57,47.47
+371,NKG8X9SH,Aurora Electronics Camera 371,Electronics,Camera,Aurora,166.76,120.28
+372,HMF5JU7C,Orion Fashion Shoes 372,Fashion,Shoes,Orion,171.93,124.35
+373,M0A10JKQ,Echo Sports Fitness 373,Sports,Fitness,Echo,170.07999999999998,96.65
+374,LDSVJH3O,Aurora Fashion Womens 374,Fashion,Womens,Aurora,122.77,74.45
+375,GIYUNCLX,Vertex Beauty Skincare 375,Beauty,Skincare,Vertex,111.71,76.63
+376,RCJ2EGQM,Orion Home Furniture 376,Home,Furniture,Orion,84.8,64.57
+377,U4D3U18W,Acme Toys Puzzles 377,Toys,Puzzles,Acme,86.19,54.74
+378,IVXAS21I,ZenX Electronics Accessories 378,Electronics,Accessories,ZenX,114.83,61.22
+379,RY7H46UO,Orion Home Kitchen 379,Home,Kitchen,Orion,188.53,126.29
+380,AIQVDXQX,Luna Books Academic 380,Books,Academic,Luna,100.43,70.96
+381,16NF5MCX,Pulse Books Comics 381,Books,Comics,Pulse,46.15,27.33
+382,XVYT26TF,Aurora Electronics Mobile 382,Electronics,Mobile,Aurora,73.81,51.52
+383,5BA66EXX,Echo Fashion Shoes 383,Fashion,Shoes,Echo,166.0,116.05
+384,U9T5X2YW,Nimbus Books Academic 384,Books,Academic,Nimbus,133.6,86.26
+385,XQPIKMF4,Nova Sports Fitness 385,Sports,Fitness,Nova,140.38,90.17
+386,GLXY7864,Vertex Fashion Accessories 386,Fashion,Accessories,Vertex,114.84,67.47
+387,Y93PEYU7,Luna Toys Puzzles 387,Toys,Puzzles,Luna,80.02,41.45
+388,X5S5K6HT,Nimbus Toys Puzzles 388,Toys,Puzzles,Nimbus,45.94,36.51
+389,50BUSTQE,Luna Fashion Accessories 389,Fashion,Accessories,Luna,256.33000000000004,161.53
+390,6XB8SJHU,Nova Books Academic 390,Books,Academic,Nova,118.79,82.75
+391,X87LREW4,Pulse Beauty Skincare 391,Beauty,Skincare,Pulse,87.97999999999999,59.36
+392,0OXEO0K7,Aurora Electronics Laptop 392,Electronics,Laptop,Aurora,95.38,52.35
+393,YAEDF897,ZenX Home Bedding 393,Home,Bedding,ZenX,119.02,88.53
+394,X7B2U9S4,Nimbus Books Non-Fiction 394,Books,Non-Fiction,Nimbus,108.93,67.0
+395,MKHSEMZA,Aurora Beauty Makeup 395,Beauty,Makeup,Aurora,73.02,45.27
+396,MQP9XFR5,ZenX Books Academic 396,Books,Academic,ZenX,149.68,77.38
+397,NQ8SQVG7,Acme Beauty Fragrance 397,Beauty,Fragrance,Acme,106.76,57.22
+398,X8LC1SUK,Vertex Books Non-Fiction 398,Books,Non-Fiction,Vertex,112.41,63.55
+399,NR4C3NCI,Luna Home Decor 399,Home,Decor,Luna,155.45,110.47
+400,IKRFKIR1,Luna Fashion Shoes 400,Fashion,Shoes,Luna,59.69,42.77
+401,5LB4UEFA,Echo Electronics Accessories 401,Electronics,Accessories,Echo,69.0,46.76
+402,HK3INI9M,Nimbus Fashion Womens 402,Fashion,Womens,Nimbus,136.51,101.48
+403,OBCGM6W3,Acme Beauty Haircare 403,Beauty,Haircare,Acme,87.9,50.29
+404,7FXNUE2U,ZenX Electronics Mobile 404,Electronics,Mobile,ZenX,160.12,99.97
+405,JLI9LO1T,Vertex Books Comics 405,Books,Comics,Vertex,57.22,30.23
+406,FM4O4Q02,Aurora Home Decor 406,Home,Decor,Aurora,93.59,60.65
+407,W0LSG6IE,Pulse Fashion Accessories 407,Fashion,Accessories,Pulse,121.62,73.24
+408,0MPMV3DD,Orion Books Academic 408,Books,Academic,Orion,69.83,55.28
+409,AS0803FF,Nimbus Sports Outdoor 409,Sports,Outdoor,Nimbus,47.17,25.28
+410,SLS06DFZ,Acme Electronics Audio 410,Electronics,Audio,Acme,91.81,57.52
+411,6HNNDFG4,Nimbus Sports Cycling 411,Sports,Cycling,Nimbus,108.28999999999999,60.89
+412,WKNR6IMX,Aurora Fashion Mens 412,Fashion,Mens,Aurora,64.75,44.37
+413,MQGBX1JC,ZenX Sports Fitness 413,Sports,Fitness,ZenX,67.1,41.92
+414,S9RDKNKX,Luna Sports Cycling 414,Sports,Cycling,Luna,124.42,93.89
+415,IV92GFAP,Nova Home Furniture 415,Home,Furniture,Nova,105.85,73.14
+416,VECM137G,Echo Fashion Accessories 416,Fashion,Accessories,Echo,39.86,20.23
+417,SFXP815A,Nimbus Beauty Skincare 417,Beauty,Skincare,Nimbus,89.44,47.1
+418,IWVHYVKB,Vertex Sports Team Sports 418,Sports,Team Sports,Vertex,102.08,56.26
+419,QF843US6,Pulse Beauty Skincare 419,Beauty,Skincare,Pulse,127.53,98.22
+420,RS7QLXT8,Acme Home Furniture 420,Home,Furniture,Acme,90.28999999999999,59.53
+421,LABWW2XZ,Nimbus Books Non-Fiction 421,Books,Non-Fiction,Nimbus,91.75999999999999,62.0
+422,JLQCJ9G2,Nova Books Non-Fiction 422,Books,Non-Fiction,Nova,148.49,78.9
+423,1WQU6O5I,Nova Books Academic 423,Books,Academic,Nova,95.25,67.39
+424,7TB9YIIJ,Echo Fashion Womens 424,Fashion,Womens,Echo,93.72,54.88
+425,EQJBZ6G1,Nova Beauty Skincare 425,Beauty,Skincare,Nova,158.06,113.31
+426,MGLG66RA,Orion Beauty Haircare 426,Beauty,Haircare,Orion,74.93,58.77
+427,0UK2SPSA,Pulse Electronics Camera 427,Electronics,Camera,Pulse,284.13,217.61
+428,IXIYE7G9,Echo Electronics Mobile 428,Electronics,Mobile,Echo,45.23,23.39
+429,1KNW4SYS,Echo Electronics Laptop 429,Electronics,Laptop,Echo,80.61,62.64
+430,5VK4PJOE,Pulse Electronics Audio 430,Electronics,Audio,Pulse,135.36,91.02
+431,6TAHQDOB,Luna Sports Team Sports 431,Sports,Team Sports,Luna,166.79000000000002,128.69
+432,0K5FZBRF,Orion Beauty Skincare 432,Beauty,Skincare,Orion,122.81,83.3
+433,XM7WPPZ2,Nimbus Electronics Laptop 433,Electronics,Laptop,Nimbus,197.1,138.9
+434,6GAKYIKP,Acme Beauty Fragrance 434,Beauty,Fragrance,Acme,110.02,73.16
+435,K5Y9KNEM,Nimbus Toys Action Figures 435,Toys,Action Figures,Nimbus,119.33,86.48
+436,G8PYB044,Nova Toys Board Games 436,Toys,Board Games,Nova,61.34,39.95
+437,S32U8ORM,Acme Fashion Womens 437,Fashion,Womens,Acme,127.46,80.47
+438,O1O2JGIC,Acme Home Kitchen 438,Home,Kitchen,Acme,67.87,40.58
+439,BJB7YPWM,Aurora Books Fiction 439,Books,Fiction,Aurora,76.6,59.59
+440,HY8B2QF6,Nimbus Fashion Mens 440,Fashion,Mens,Nimbus,72.11,41.58
+441,3RB0F91W,Acme Beauty Makeup 441,Beauty,Makeup,Acme,151.49,86.18
+442,4WORAAAC,Acme Fashion Womens 442,Fashion,Womens,Acme,150.63,114.3
+443,S0QEVGZP,Vertex Toys Board Games 443,Toys,Board Games,Vertex,65.56,45.34
+444,TFSS39KU,Nova Beauty Makeup 444,Beauty,Makeup,Nova,76.02,45.94
+445,54TBWY4P,Aurora Sports Fitness 445,Sports,Fitness,Aurora,117.1,76.51
+446,MKEQ3K2K,Pulse Books Comics 446,Books,Comics,Pulse,122.96,82.81
+447,XPW1LD2N,Pulse Toys Puzzles 447,Toys,Puzzles,Pulse,101.4,59.36
+448,84PI2V53,Aurora Books Non-Fiction 448,Books,Non-Fiction,Aurora,100.49,74.07
+449,1NWBNXOX,Pulse Electronics Audio 449,Electronics,Audio,Pulse,93.67,67.87
+450,465ESXQD,Vertex Home Furniture 450,Home,Furniture,Vertex,101.03999999999999,54.63
+451,ZN90IB1N,Nova Fashion Accessories 451,Fashion,Accessories,Nova,92.46000000000001,68.68
+452,NBU17SH4,Orion Sports Outdoor 452,Sports,Outdoor,Orion,66.08,41.14
+453,R7KBP2TF,Nimbus Toys Action Figures 453,Toys,Action Figures,Nimbus,167.04000000000002,132.23
+454,FNPDZ2TV,ZenX Fashion Womens 454,Fashion,Womens,ZenX,210.01,130.57
+455,GD7Y6IKP,Acme Toys STEM 455,Toys,STEM,Acme,237.38,124.94
+456,IOL66L06,Nova Home Decor 456,Home,Decor,Nova,94.76,51.85
+457,A8PWULY5,ZenX Fashion Accessories 457,Fashion,Accessories,ZenX,92.0,72.84
+458,6DNZXEZS,Orion Toys STEM 458,Toys,STEM,Orion,89.71000000000001,64.56
+459,XU1RXK8K,Nimbus Toys Action Figures 459,Toys,Action Figures,Nimbus,61.81,39.9
+460,QOTXFXO3,Nova Beauty Makeup 460,Beauty,Makeup,Nova,111.51,68.09
+461,IVH3ILAG,Nova Fashion Accessories 461,Fashion,Accessories,Nova,114.22,64.61
+462,8Q3VR8JN,ZenX Books Fiction 462,Books,Fiction,ZenX,124.86,86.5
+463,ZMGGG42V,Acme Books Comics 463,Books,Comics,Acme,54.57,28.12
+464,IFFO3LVX,Nimbus Beauty Makeup 464,Beauty,Makeup,Nimbus,98.69,59.63
+465,3ZRLI3E8,Orion Books Non-Fiction 465,Books,Non-Fiction,Orion,82.61,42.62
+466,PRJSAK4N,Echo Electronics Laptop 466,Electronics,Laptop,Echo,146.05,115.28
+467,273A4WVB,ZenX Books Fiction 467,Books,Fiction,ZenX,117.01,69.07
+468,MY7OH873,Orion Electronics Laptop 468,Electronics,Laptop,Orion,74.14,53.64
+469,HUJF7HPL,Acme Electronics Audio 469,Electronics,Audio,Acme,114.38,90.44
+470,STMC8X1X,Luna Fashion Womens 470,Fashion,Womens,Luna,147.70999999999998,77.74
+471,RQOF04E1,Pulse Electronics Laptop 471,Electronics,Laptop,Pulse,69.2,51.34
+472,5MYZCAYB,Vertex Fashion Accessories 472,Fashion,Accessories,Vertex,79.6,43.8
+473,BXDF6U70,ZenX Electronics Mobile 473,Electronics,Mobile,ZenX,209.81,122.5
+474,H3Z2OZXP,Nova Toys STEM 474,Toys,STEM,Nova,129.2,91.61
+475,EK35QELD,Echo Books Non-Fiction 475,Books,Non-Fiction,Echo,117.92,66.47
+476,QMSX4LBG,Nova Beauty Makeup 476,Beauty,Makeup,Nova,92.75,57.13
+477,GCMIQPBU,Pulse Home Decor 477,Home,Decor,Pulse,53.78,30.45
+478,R76255R9,ZenX Fashion Accessories 478,Fashion,Accessories,ZenX,80.64,41.72
+479,8N20ZSPP,Vertex Fashion Mens 479,Fashion,Mens,Vertex,95.38,72.07
+480,N986A42S,Acme Home Kitchen 480,Home,Kitchen,Acme,73.26,49.95
+481,I6MCIXOK,Nova Beauty Fragrance 481,Beauty,Fragrance,Nova,111.77,64.68
+482,9RYD3SOY,Echo Fashion Shoes 482,Fashion,Shoes,Echo,143.18,109.02
+483,M1FORR44,Vertex Fashion Shoes 483,Fashion,Shoes,Vertex,164.78,94.61
+484,GCWUEBWO,Nimbus Sports Fitness 484,Sports,Fitness,Nimbus,33.59,25.41
+485,RBYX757E,Nova Books Non-Fiction 485,Books,Non-Fiction,Nova,138.9,74.67
+486,JU0VKL5L,Luna Beauty Fragrance 486,Beauty,Fragrance,Luna,160.54000000000002,108.97
+487,8ORFOE6A,Vertex Electronics Laptop 487,Electronics,Laptop,Vertex,98.88,71.28
+488,8BAZ5SHS,Acme Home Storage 488,Home,Storage,Acme,183.76,116.78
+489,LAEHCZVG,Pulse Toys STEM 489,Toys,STEM,Pulse,69.24000000000001,47.06
+490,J6N641XY,ZenX Home Furniture 490,Home,Furniture,ZenX,130.88,85.57
+491,IYL9RLR5,Nova Books Non-Fiction 491,Books,Non-Fiction,Nova,143.95,88.29
+492,TFF918O1,Echo Sports Team Sports 492,Sports,Team Sports,Echo,191.23,100.61
+493,0A73Y52A,Nova Beauty Fragrance 493,Beauty,Fragrance,Nova,169.34,114.72
+494,DCPVPD9O,Luna Books Non-Fiction 494,Books,Non-Fiction,Luna,87.43,46.33
+495,VNVSCCFG,Pulse Sports Team Sports 495,Sports,Team Sports,Pulse,44.71,28.43
+496,0CE3W5N3,ZenX Books Comics 496,Books,Comics,ZenX,89.17,62.13
+497,QV7EUG5G,Nova Electronics Laptop 497,Electronics,Laptop,Nova,64.15,44.84
+498,GIIGLJLD,Acme Beauty Makeup 498,Beauty,Makeup,Acme,124.52,79.34
+499,102BT451,Pulse Books Non-Fiction 499,Books,Non-Fiction,Pulse,78.1,55.69
+500,2Z781371,ZenX Toys Puzzles 500,Toys,Puzzles,ZenX,102.74,81.01
+501,2C9M8U3M,Nimbus Home Furniture 501,Home,Furniture,Nimbus,120.05,84.57
+502,FPROAHFM,Luna Books Academic 502,Books,Academic,Luna,160.24,107.89
+503,JC5TGKOG,Orion Fashion Shoes 503,Fashion,Shoes,Orion,81.09,59.59
+504,N3UKXM9F,Luna Toys STEM 504,Toys,STEM,Luna,112.22999999999999,57.17
+505,HUQD0E5K,Acme Electronics Audio 505,Electronics,Audio,Acme,103.95,54.96
+506,Y3Z7YS5R,Acme Sports Team Sports 506,Sports,Team Sports,Acme,121.87,63.25
+507,QB0465TA,Luna Fashion Shoes 507,Fashion,Shoes,Luna,70.63,37.38
+508,YMM0P2KI,Acme Beauty Skincare 508,Beauty,Skincare,Acme,109.09,59.41
+509,Z495Y36V,ZenX Home Furniture 509,Home,Furniture,ZenX,90.63,56.33
+510,9W3AE0O1,Pulse Fashion Shoes 510,Fashion,Shoes,Pulse,118.53,78.88
+511,NEWEJ13K,Orion Electronics Accessories 511,Electronics,Accessories,Orion,60.17,30.12
+512,8E7G5Y6Z,ZenX Books Comics 512,Books,Comics,ZenX,62.6,46.62
+513,3HJC22A1,Pulse Books Academic 513,Books,Academic,Pulse,73.37,41.63
+514,H4IM5QAK,Echo Beauty Skincare 514,Beauty,Skincare,Echo,89.50999999999999,68.32
+515,YW1HIZE0,Pulse Books Comics 515,Books,Comics,Pulse,125.17,71.22
+516,1PY92LE4,Aurora Beauty Makeup 516,Beauty,Makeup,Aurora,100.01,55.19
+517,KGPZ26S5,Orion Sports Fitness 517,Sports,Fitness,Orion,60.46,47.77
+518,ISAV84V1,Aurora Toys Puzzles 518,Toys,Puzzles,Aurora,114.81,71.43
+519,MWSUAUVA,Luna Books Non-Fiction 519,Books,Non-Fiction,Luna,139.89,81.68
+520,HOTBQ74Q,Nimbus Books Comics 520,Books,Comics,Nimbus,139.36,77.37
+521,XAGJL6VC,Aurora Home Storage 521,Home,Storage,Aurora,128.91,81.02
+522,B28ZOJQX,ZenX Home Furniture 522,Home,Furniture,ZenX,56.47,44.16
+523,68CMSR5E,Pulse Beauty Makeup 523,Beauty,Makeup,Pulse,76.57,39.29
+524,2R9PD53R,Nova Home Bedding 524,Home,Bedding,Nova,94.14,53.23
+525,TGVWZ9U1,Nova Sports Team Sports 525,Sports,Team Sports,Nova,116.2,91.45
+526,357BUILU,Aurora Electronics Laptop 526,Electronics,Laptop,Aurora,42.59,31.97
+527,OYS9R7FI,Pulse Books Fiction 527,Books,Fiction,Pulse,181.22,106.54
+528,BRY8QE1E,Vertex Sports Fitness 528,Sports,Fitness,Vertex,92.02000000000001,70.68
+529,OLILOGPG,Nova Sports Cycling 529,Sports,Cycling,Nova,84.29,58.46
+530,18QEF65B,Orion Books Comics 530,Books,Comics,Orion,289.68,220.98
+531,7W2N3ZAJ,Vertex Fashion Shoes 531,Fashion,Shoes,Vertex,109.39,55.36
+532,XAQV696E,Nimbus Sports Team Sports 532,Sports,Team Sports,Nimbus,61.21,41.63
+533,CJMCVUMX,ZenX Books Non-Fiction 533,Books,Non-Fiction,ZenX,127.21,89.49
+534,IK8FZBQK,Vertex Fashion Accessories 534,Fashion,Accessories,Vertex,77.6,40.86
+535,AGKV7W91,Vertex Sports Cycling 535,Sports,Cycling,Vertex,109.86,81.82
+536,GIK2Z19J,Echo Toys Puzzles 536,Toys,Puzzles,Echo,112.17,69.34
+537,0MPG8NGK,Aurora Toys Puzzles 537,Toys,Puzzles,Aurora,62.09,40.02
+538,3RYM3KTP,ZenX Electronics Mobile 538,Electronics,Mobile,ZenX,83.11,52.66
+539,S05FVJGJ,Nova Home Storage 539,Home,Storage,Nova,60.14,32.07
+540,5BYF96TN,Acme Home Storage 540,Home,Storage,Acme,114.18,71.53
+541,D07PBMRI,Nimbus Books Non-Fiction 541,Books,Non-Fiction,Nimbus,88.08,45.36
+542,SMQBX4B3,ZenX Toys STEM 542,Toys,STEM,ZenX,121.91,86.87
+543,D5VWMY5V,Pulse Toys Puzzles 543,Toys,Puzzles,Pulse,69.07,43.52
+544,V0WBUXET,Luna Toys STEM 544,Toys,STEM,Luna,180.26,112.67
+545,RAHC2RZX,Vertex Toys Board Games 545,Toys,Board Games,Vertex,62.39,36.81
+546,ZN8TENBX,Nova Sports Fitness 546,Sports,Fitness,Nova,142.69,94.03
+547,FA64QGWS,Pulse Electronics Laptop 547,Electronics,Laptop,Pulse,87.45,56.93
+548,TCIVZG0X,Luna Sports Outdoor 548,Sports,Outdoor,Luna,135.18,73.75
+549,RMA6AYCF,Acme Books Fiction 549,Books,Fiction,Acme,91.86,50.99
+550,SYB8WF53,Pulse Home Decor 550,Home,Decor,Pulse,110.72999999999999,87.42
+551,YILRPG66,ZenX Fashion Womens 551,Fashion,Womens,ZenX,120.31,85.07
+552,I42VPZJ3,Aurora Home Decor 552,Home,Decor,Aurora,88.94,57.94
+553,I55XNX34,Nova Sports Team Sports 553,Sports,Team Sports,Nova,84.73,64.84
+554,SCOCG3JL,Pulse Toys Puzzles 554,Toys,Puzzles,Pulse,88.9,55.18
+555,W02IWQZD,Luna Home Bedding 555,Home,Bedding,Luna,122.41,77.14
+556,B7O0M6V3,Echo Sports Outdoor 556,Sports,Outdoor,Echo,61.1,38.83
+557,9UR1U6B5,Vertex Electronics Laptop 557,Electronics,Laptop,Vertex,121.97,75.23
+558,7Y6UNJQR,Acme Electronics Camera 558,Electronics,Camera,Acme,44.89,32.34
+559,YSPYWRZA,Acme Toys Board Games 559,Toys,Board Games,Acme,107.72,67.56
+560,YXDUA138,Nova Beauty Skincare 560,Beauty,Skincare,Nova,123.38,90.18
+561,9QEDQCV7,Acme Sports Fitness 561,Sports,Fitness,Acme,101.49000000000001,69.16
+562,V4GSCRE1,Vertex Books Fiction 562,Books,Fiction,Vertex,80.38,62.84
+563,W6MUH224,Aurora Home Storage 563,Home,Storage,Aurora,65.83,38.04
+564,VBCH0PT9,Luna Fashion Womens 564,Fashion,Womens,Luna,97.43,72.21
+565,GA22O3MD,Echo Fashion Womens 565,Fashion,Womens,Echo,44.16,27.68
+566,20NVM6AZ,Orion Home Storage 566,Home,Storage,Orion,141.92000000000002,82.8
+567,K1KMBL61,Pulse Electronics Audio 567,Electronics,Audio,Pulse,81.57,61.83
+568,Y9KES0VT,Pulse Beauty Makeup 568,Beauty,Makeup,Pulse,68.66,49.9
+569,QTXD6TO5,Orion Sports Outdoor 569,Sports,Outdoor,Orion,85.22,58.89
+570,QDY5XAUQ,Vertex Toys Action Figures 570,Toys,Action Figures,Vertex,97.82,52.6
+571,9G71BN08,Echo Toys Puzzles 571,Toys,Puzzles,Echo,47.870000000000005,35.16
+572,7YT2TWW0,ZenX Fashion Shoes 572,Fashion,Shoes,ZenX,71.56,42.38
+573,H5VZM1S6,Luna Beauty Skincare 573,Beauty,Skincare,Luna,124.66,79.65
+574,7M6U2YE1,ZenX Sports Cycling 574,Sports,Cycling,ZenX,104.36,82.29
+575,SNIDD0RY,Vertex Electronics Camera 575,Electronics,Camera,Vertex,88.59,58.14
+576,5BPB4TJS,Vertex Home Storage 576,Home,Storage,Vertex,180.89,105.6
+577,C5T4H90A,Echo Home Storage 577,Home,Storage,Echo,135.1,106.39
+578,MH67KMXE,Vertex Books Comics 578,Books,Comics,Vertex,63.94,34.01
+579,VJ1Q8XWU,Orion Beauty Fragrance 579,Beauty,Fragrance,Orion,175.18,111.0
+580,JDFTO30L,Nimbus Sports Team Sports 580,Sports,Team Sports,Nimbus,146.59,93.3
+581,XQBBSKRT,Pulse Electronics Accessories 581,Electronics,Accessories,Pulse,89.38,67.16
+582,3TK1AQG2,Aurora Home Bedding 582,Home,Bedding,Aurora,103.78,76.49
+583,ZQENNBSO,Luna Toys Board Games 583,Toys,Board Games,Luna,134.65,98.69
+584,3JMG7N3P,Aurora Toys Puzzles 584,Toys,Puzzles,Aurora,109.05,74.18
+585,6PAWCW46,ZenX Beauty Haircare 585,Beauty,Haircare,ZenX,152.49,104.51
+586,E1ECI6OH,Vertex Electronics Camera 586,Electronics,Camera,Vertex,122.36,87.61
+587,DXM32JZK,ZenX Home Bedding 587,Home,Bedding,ZenX,88.21,64.48
+588,ZENJN79R,Aurora Electronics Audio 588,Electronics,Audio,Aurora,100.84,67.32
+589,4PI08FZV,Vertex Sports Team Sports 589,Sports,Team Sports,Vertex,95.62,60.57
+590,TZ1IXYF7,ZenX Electronics Laptop 590,Electronics,Laptop,ZenX,79.59,60.19
+591,W60Y4BFU,Orion Toys Action Figures 591,Toys,Action Figures,Orion,99.09,60.97
+592,50C5DT9Y,Aurora Beauty Haircare 592,Beauty,Haircare,Aurora,108.88,66.58
+593,UL4H7OH2,Nimbus Books Fiction 593,Books,Fiction,Nimbus,95.52000000000001,64.62
+594,Z7EG2MW9,Echo Sports Outdoor 594,Sports,Outdoor,Echo,118.83,87.43
+595,YXGCBSPE,Vertex Beauty Makeup 595,Beauty,Makeup,Vertex,127.63,101.4
+596,M9HGS74B,Nimbus Toys Board Games 596,Toys,Board Games,Nimbus,235.85,145.67
+597,1Q8WP1CH,Vertex Electronics Audio 597,Electronics,Audio,Vertex,55.92,40.95
+598,FE0GK9TA,ZenX Electronics Audio 598,Electronics,Audio,ZenX,205.19,128.27
+599,E9HUBV9P,Nimbus Electronics Camera 599,Electronics,Camera,Nimbus,166.67000000000002,95.03
+600,72VMHQ6E,ZenX Sports Team Sports 600,Sports,Team Sports,ZenX,166.91,115.48
+601,SFTHMVPD,Luna Beauty Makeup 601,Beauty,Makeup,Luna,110.5,70.7
+602,VIGB0D0P,Nimbus Books Fiction 602,Books,Fiction,Nimbus,64.7,50.08
+603,P5F2OXR6,Echo Toys Board Games 603,Toys,Board Games,Echo,76.9,50.19
+604,7HAS2346,ZenX Electronics Audio 604,Electronics,Audio,ZenX,57.74,31.14
+605,I9R9SJBF,Aurora Electronics Laptop 605,Electronics,Laptop,Aurora,100.82,72.47
+606,E7X5K4NZ,Aurora Beauty Haircare 606,Beauty,Haircare,Aurora,72.2,56.72
+607,9VCOEHJO,ZenX Beauty Skincare 607,Beauty,Skincare,ZenX,145.87,89.6
+608,IY6L9NI4,Echo Books Comics 608,Books,Comics,Echo,158.97,85.05
+609,XBSYLIVT,Nimbus Toys Board Games 609,Toys,Board Games,Nimbus,85.57,43.39
+610,XVDUMWHK,ZenX Beauty Skincare 610,Beauty,Skincare,ZenX,92.63,57.01
+611,81KVRHO9,Acme Electronics Mobile 611,Electronics,Mobile,Acme,80.55,46.74
+612,6SLEHXLZ,Acme Sports Outdoor 612,Sports,Outdoor,Acme,97.65,66.67
+613,JSPLH3IZ,Nimbus Home Furniture 613,Home,Furniture,Nimbus,68.27000000000001,38.87
+614,16ZSHTZJ,Aurora Home Furniture 614,Home,Furniture,Aurora,163.45,118.64
+615,YPWE4T3M,Echo Toys Board Games 615,Toys,Board Games,Echo,108.76,79.28
+616,9VP9PQWW,Luna Electronics Mobile 616,Electronics,Mobile,Luna,65.3,48.63
+617,OTO4CF1O,Vertex Fashion Shoes 617,Fashion,Shoes,Vertex,118.47,81.74
+618,4NYOICJL,ZenX Sports Fitness 618,Sports,Fitness,ZenX,57.86,37.59
+619,X0Y835WL,Luna Home Furniture 619,Home,Furniture,Luna,115.04,67.16
+620,ZMIR2BZA,Pulse Home Bedding 620,Home,Bedding,Pulse,55.76,35.1
+621,7OE4WMJO,Nimbus Sports Team Sports 621,Sports,Team Sports,Nimbus,64.3,38.88
+622,I84E52JH,Luna Electronics Audio 622,Electronics,Audio,Luna,101.16,52.47
+623,D50CCW70,Acme Fashion Shoes 623,Fashion,Shoes,Acme,199.34,132.36
+624,OTDF056Q,Echo Books Comics 624,Books,Comics,Echo,153.72,90.09
+625,EB4QRFC1,Nova Toys Puzzles 625,Toys,Puzzles,Nova,120.88,87.52
+626,4UYXV6GU,Orion Home Decor 626,Home,Decor,Orion,198.07,118.67
+627,DKDPK8NC,Echo Toys STEM 627,Toys,STEM,Echo,75.58,41.31
+628,4RJ9NETT,Nimbus Beauty Fragrance 628,Beauty,Fragrance,Nimbus,116.77,59.69
+629,0CP5DZZ2,Vertex Toys STEM 629,Toys,STEM,Vertex,91.66,47.59
+630,AVDZJ118,Aurora Books Fiction 630,Books,Fiction,Aurora,108.28,80.58
+631,B9RDTA9X,ZenX Sports Team Sports 631,Sports,Team Sports,ZenX,94.12,64.42
+632,RU6AKUS6,Aurora Home Kitchen 632,Home,Kitchen,Aurora,132.8,102.61
+633,UMBS5AL4,Luna Sports Fitness 633,Sports,Fitness,Luna,118.87,78.17
+634,IYVJNSNO,Nimbus Beauty Makeup 634,Beauty,Makeup,Nimbus,167.99,85.48
+635,ITRCB2RC,Pulse Fashion Womens 635,Fashion,Womens,Pulse,47.54,25.94
+636,K92D77V2,Vertex Sports Team Sports 636,Sports,Team Sports,Vertex,121.53,66.63
+637,IO1HGWSZ,Nova Beauty Fragrance 637,Beauty,Fragrance,Nova,163.3,100.98
+638,ZIO7QQ1F,Echo Toys Action Figures 638,Toys,Action Figures,Echo,88.74000000000001,59.49
+639,KM1KUCC6,Orion Sports Cycling 639,Sports,Cycling,Orion,76.05,46.76
+640,4J0X1VLP,Vertex Toys Board Games 640,Toys,Board Games,Vertex,93.42,57.92
+641,E329S9PO,Orion Beauty Skincare 641,Beauty,Skincare,Orion,114.84,66.4
+642,E0CDHG35,ZenX Home Storage 642,Home,Storage,ZenX,23.71,17.75
+643,M8ILJYUF,ZenX Sports Fitness 643,Sports,Fitness,ZenX,91.69,65.69
+644,QI4LLYQL,Luna Home Furniture 644,Home,Furniture,Luna,167.01999999999998,122.37
+645,GDW2BMJ0,Orion Beauty Haircare 645,Beauty,Haircare,Orion,71.22,43.53
+646,BT4JFRA0,Luna Beauty Fragrance 646,Beauty,Fragrance,Luna,89.57,68.68
+647,4BRCTUC3,Luna Toys STEM 647,Toys,STEM,Luna,210.15,159.68
+648,KDK430YC,Nimbus Books Non-Fiction 648,Books,Non-Fiction,Nimbus,119.67,93.75
+649,RF8FOYRH,Nova Books Academic 649,Books,Academic,Nova,75.21000000000001,40.81
+650,58M3BFD4,ZenX Electronics Mobile 650,Electronics,Mobile,ZenX,175.73000000000002,98.64
+651,U1M56SQC,Aurora Sports Outdoor 651,Sports,Outdoor,Aurora,118.03,64.83
+652,19J4UO51,ZenX Beauty Makeup 652,Beauty,Makeup,ZenX,107.58,63.55
+653,ZVUNN237,Aurora Electronics Camera 653,Electronics,Camera,Aurora,82.41,57.14
+654,OLQAM6PW,Nimbus Toys STEM 654,Toys,STEM,Nimbus,85.89,43.35
+655,MM5AJ3JI,Echo Home Furniture 655,Home,Furniture,Echo,217.8,109.61
+656,9RQBIPR1,Orion Books Fiction 656,Books,Fiction,Orion,105.4,79.67
+657,QIBGTYX8,ZenX Electronics Audio 657,Electronics,Audio,ZenX,108.85,65.62
+658,ASCM3001,Luna Fashion Womens 658,Fashion,Womens,Luna,141.81,84.75
+659,24H5I3A8,ZenX Books Comics 659,Books,Comics,ZenX,79.21000000000001,49.64
+660,1THX5EQI,Pulse Sports Cycling 660,Sports,Cycling,Pulse,108.11,65.83
+661,9F1THD9F,Aurora Sports Outdoor 661,Sports,Outdoor,Aurora,84.82,61.33
+662,T4SKAHRK,Luna Toys STEM 662,Toys,STEM,Luna,116.01,72.9
+663,LA3V6HJB,Acme Home Furniture 663,Home,Furniture,Acme,138.8,106.45
+664,CPFQB1BF,Echo Sports Fitness 664,Sports,Fitness,Echo,79.24000000000001,48.33
+665,1V20N59Q,Acme Books Comics 665,Books,Comics,Acme,75.03,47.32
+666,WPVDGJ7S,Aurora Home Kitchen 666,Home,Kitchen,Aurora,99.97999999999999,65.03
+667,5BDNWHZ7,Aurora Electronics Accessories 667,Electronics,Accessories,Aurora,107.1,59.2
+668,N6EVDUIT,Pulse Fashion Mens 668,Fashion,Mens,Pulse,107.62,85.36
+669,T3CUMZNP,Pulse Beauty Haircare 669,Beauty,Haircare,Pulse,102.91,74.99
+670,L52RYQB2,Luna Beauty Makeup 670,Beauty,Makeup,Luna,159.37,112.96
+671,488TAQSS,Acme Beauty Haircare 671,Beauty,Haircare,Acme,55.86,37.52
+672,6RUHFJAJ,Aurora Fashion Womens 672,Fashion,Womens,Aurora,98.53,50.56
+673,5KRHBAOL,Orion Sports Team Sports 673,Sports,Team Sports,Orion,86.84,44.22
+674,O6MDZM20,Luna Sports Cycling 674,Sports,Cycling,Luna,82.85,55.92
+675,VJM56BAY,Nova Sports Cycling 675,Sports,Cycling,Nova,46.31,27.01
+676,Y3UND2JM,ZenX Toys STEM 676,Toys,STEM,ZenX,59.65,31.98
+677,B14LJ2BY,Luna Books Fiction 677,Books,Fiction,Luna,19.87,13.96
+678,YM90UO6Z,ZenX Sports Fitness 678,Sports,Fitness,ZenX,131.55,67.28
+679,P7LPN0W7,Luna Books Fiction 679,Books,Fiction,Luna,142.41,102.03
+680,4CJDDBQR,Pulse Home Furniture 680,Home,Furniture,Pulse,124.62,65.72
+681,BPCQKDB8,Orion Toys STEM 681,Toys,STEM,Orion,72.03999999999999,57.11
+682,GWR5VNYY,Luna Fashion Shoes 682,Fashion,Shoes,Luna,82.73,52.41
+683,JW3VXNG3,Orion Electronics Audio 683,Electronics,Audio,Orion,116.86,64.66
+684,R2KDW1FL,ZenX Fashion Accessories 684,Fashion,Accessories,ZenX,159.99,123.93
+685,J5RIJEGL,Orion Fashion Womens 685,Fashion,Womens,Orion,80.17,51.92
+686,E4YDJW15,Luna Books Comics 686,Books,Comics,Luna,93.4,69.35
+687,Y57RMNS8,ZenX Fashion Shoes 687,Fashion,Shoes,ZenX,205.09,124.17
+688,7FH805ED,Echo Electronics Mobile 688,Electronics,Mobile,Echo,156.99,88.7
+689,N86ZK2ZK,Orion Toys Action Figures 689,Toys,Action Figures,Orion,107.57,79.41
+690,1MF083NN,Vertex Books Comics 690,Books,Comics,Vertex,149.05,100.5
+691,Z41MR6G5,Luna Beauty Fragrance 691,Beauty,Fragrance,Luna,119.31,65.88
+692,JWWM6N48,Acme Toys Board Games 692,Toys,Board Games,Acme,150.23000000000002,92.09
+693,FYSS3D06,Luna Sports Cycling 693,Sports,Cycling,Luna,84.84,43.45
+694,ZJQ5XGTU,Acme Sports Team Sports 694,Sports,Team Sports,Acme,199.4,157.66
+695,P8A444YH,Acme Toys Puzzles 695,Toys,Puzzles,Acme,62.1,49.08
+696,NWDU8OZA,Acme Sports Team Sports 696,Sports,Team Sports,Acme,43.46,24.51
+697,MHO8CFPI,Nova Fashion Mens 697,Fashion,Mens,Nova,106.55,68.42
+698,LV03L6BC,Luna Beauty Fragrance 698,Beauty,Fragrance,Luna,54.42,29.42
+699,4QS3HTLA,Aurora Books Fiction 699,Books,Fiction,Aurora,56.9,44.34
+700,92AQXOY5,Echo Books Fiction 700,Books,Fiction,Echo,111.48,63.02
+701,36GEZ9D7,Orion Beauty Skincare 701,Beauty,Skincare,Orion,83.41,45.78
+702,0ZEDAK9O,Orion Sports Team Sports 702,Sports,Team Sports,Orion,83.52000000000001,66.59
+703,ADQGH279,Pulse Sports Outdoor 703,Sports,Outdoor,Pulse,56.08,38.91
+704,RZ9HZMUG,Luna Beauty Haircare 704,Beauty,Haircare,Luna,76.06,40.56
+705,243TL6W0,Nimbus Electronics Mobile 705,Electronics,Mobile,Nimbus,139.95,83.62
+706,W0YO7IBW,Vertex Books Non-Fiction 706,Books,Non-Fiction,Vertex,129.44,85.68
+707,DWDRXIKD,Acme Electronics Audio 707,Electronics,Audio,Acme,134.07,102.64
+708,KY2KYI8F,Aurora Toys Board Games 708,Toys,Board Games,Aurora,205.4,123.16
+709,GYGOGLJP,Nova Books Non-Fiction 709,Books,Non-Fiction,Nova,133.07999999999998,104.65
+710,Q4V9AAHJ,Nova Electronics Camera 710,Electronics,Camera,Nova,68.62,36.51
+711,8MDRERYT,Nimbus Toys STEM 711,Toys,STEM,Nimbus,88.7,52.65
+712,4JJU64HN,Orion Beauty Makeup 712,Beauty,Makeup,Orion,166.32,111.93
+713,627D1NDO,Nova Beauty Fragrance 713,Beauty,Fragrance,Nova,124.43,75.44
+714,QDMXZZG9,Orion Beauty Haircare 714,Beauty,Haircare,Orion,99.6,64.8
+715,RHZ8EI82,Nova Electronics Audio 715,Electronics,Audio,Nova,65.86,33.39
+716,7G6H8MR9,Acme Electronics Camera 716,Electronics,Camera,Acme,66.72999999999999,52.16
+717,VCCYBECU,Vertex Beauty Haircare 717,Beauty,Haircare,Vertex,125.39,78.92
+718,OMMBA1E2,Vertex Electronics Audio 718,Electronics,Audio,Vertex,66.8,44.15
+719,VF2B3210,ZenX Fashion Mens 719,Fashion,Mens,ZenX,164.28,95.35
+720,8OMAJZF5,Aurora Toys Action Figures 720,Toys,Action Figures,Aurora,125.37,94.83
+721,KN34K49L,Echo Books Fiction 721,Books,Fiction,Echo,82.83,43.35
+722,2PV6TNXD,Aurora Books Fiction 722,Books,Fiction,Aurora,132.57999999999998,71.02
+723,3D3VOMOV,Pulse Sports Fitness 723,Sports,Fitness,Pulse,60.69,47.17
+724,WH2BVCG7,Echo Fashion Accessories 724,Fashion,Accessories,Echo,131.5,74.85
+725,EGD6LIEE,Nova Books Non-Fiction 725,Books,Non-Fiction,Nova,88.85,49.09
+726,HDF3NI3I,Acme Books Academic 726,Books,Academic,Acme,166.55,114.58
+727,93D2GV8N,Nova Home Storage 727,Home,Storage,Nova,62.5,38.18
+728,ID83GVX2,Echo Books Fiction 728,Books,Fiction,Echo,61.83,46.42
+729,9O0GXLD4,Nova Fashion Accessories 729,Fashion,Accessories,Nova,56.08,29.09
+730,TDD0KP88,Nimbus Electronics Laptop 730,Electronics,Laptop,Nimbus,114.66,71.18
+731,W69VNUQI,Vertex Toys Puzzles 731,Toys,Puzzles,Vertex,85.92,54.7
+732,9N608M94,Nova Fashion Womens 732,Fashion,Womens,Nova,124.72,74.15
+733,XTRLLN49,Vertex Sports Cycling 733,Sports,Cycling,Vertex,96.27000000000001,69.3
+734,WB1QRUT6,Echo Fashion Accessories 734,Fashion,Accessories,Echo,139.11,93.43
+735,KZKGFUP0,Acme Electronics Accessories 735,Electronics,Accessories,Acme,101.55,56.88
+736,KX1KHYYR,Aurora Sports Outdoor 736,Sports,Outdoor,Aurora,99.42,74.08
+737,NWI4YWP9,Nova Home Decor 737,Home,Decor,Nova,133.51,96.65
+738,57HJD8SM,Luna Books Non-Fiction 738,Books,Non-Fiction,Luna,116.49,76.57
+739,RUN9UKSH,ZenX Fashion Accessories 739,Fashion,Accessories,ZenX,107.35,85.25
+740,DSXG2YGN,Pulse Toys Puzzles 740,Toys,Puzzles,Pulse,130.05,102.85
+741,MDDOHKY3,Vertex Books Academic 741,Books,Academic,Vertex,87.34,43.67
+742,MTIJZOGG,Vertex Books Academic 742,Books,Academic,Vertex,107.12,71.21
+743,NMUFIGR3,Nova Electronics Accessories 743,Electronics,Accessories,Nova,125.35,73.73
+744,2CQSFCSG,Nova Home Kitchen 744,Home,Kitchen,Nova,197.62,155.88
+745,HRJV3PHU,Luna Beauty Fragrance 745,Beauty,Fragrance,Luna,42.81,22.59
+746,YG1YPJIB,Aurora Fashion Accessories 746,Fashion,Accessories,Aurora,122.39,77.15
+747,T2CKBVCA,Nova Fashion Womens 747,Fashion,Womens,Nova,172.15,108.31
+748,14C6KLIX,Nova Home Storage 748,Home,Storage,Nova,134.69,86.34
+749,QR32VPJ5,Echo Sports Cycling 749,Sports,Cycling,Echo,103.99,79.94
+750,FX3YJFLC,Acme Home Storage 750,Home,Storage,Acme,59.83,40.99
+751,Q42IE2P7,Vertex Fashion Accessories 751,Fashion,Accessories,Vertex,119.57,95.25
+752,I2QXC5EH,Orion Books Comics 752,Books,Comics,Orion,91.56,63.18
+753,5VLR1DEF,Nimbus Toys Action Figures 753,Toys,Action Figures,Nimbus,133.1,81.25
+754,0QFJHD8G,ZenX Fashion Shoes 754,Fashion,Shoes,ZenX,94.63,66.56
+755,S91XAN24,Pulse Toys Board Games 755,Toys,Board Games,Pulse,127.28,64.85
+756,IG6R2YUR,Aurora Home Kitchen 756,Home,Kitchen,Aurora,120.3,61.07
+757,266VXJKY,Aurora Sports Outdoor 757,Sports,Outdoor,Aurora,84.97999999999999,58.11
+758,NEM5BNAS,Aurora Books Comics 758,Books,Comics,Aurora,126.11,73.48
+759,2OTQHE7K,Acme Fashion Mens 759,Fashion,Mens,Acme,55.23,37.55
+760,3SA61B2K,Orion Toys Action Figures 760,Toys,Action Figures,Orion,113.34,58.5
+761,WZZ32OE1,Orion Books Academic 761,Books,Academic,Orion,182.83,144.21
+762,2DJRGIQI,Nimbus Fashion Accessories 762,Fashion,Accessories,Nimbus,65.36,35.82
+763,LSNK9C13,Nimbus Fashion Accessories 763,Fashion,Accessories,Nimbus,119.76,72.56
+764,W9XSO6P1,Luna Sports Cycling 764,Sports,Cycling,Luna,49.83,36.92
+765,DX5AZT76,Acme Electronics Camera 765,Electronics,Camera,Acme,139.72,94.28
+766,J9AUARLV,ZenX Beauty Skincare 766,Beauty,Skincare,ZenX,91.73,48.46
+767,L0KOVGKU,Nova Electronics Laptop 767,Electronics,Laptop,Nova,30.94,21.39
+768,EQABN466,Acme Home Decor 768,Home,Decor,Acme,117.52000000000001,83.95
+769,MWW49567,Aurora Electronics Accessories 769,Electronics,Accessories,Aurora,123.89,84.15
+770,ZD6SJ5MT,Nimbus Sports Outdoor 770,Sports,Outdoor,Nimbus,71.2,44.94
+771,J5Z6BIXG,Echo Toys STEM 771,Toys,STEM,Echo,175.85,89.75
+772,LC8042EK,Vertex Sports Team Sports 772,Sports,Team Sports,Vertex,72.87,46.38
+773,BQYQLBZ1,Vertex Toys Action Figures 773,Toys,Action Figures,Vertex,83.2,53.82
+774,XQTCNMZC,Vertex Electronics Laptop 774,Electronics,Laptop,Vertex,97.25,69.12
+775,G9LURW23,Pulse Fashion Womens 775,Fashion,Womens,Pulse,171.18,100.79
+776,J0IMM5VK,Luna Books Non-Fiction 776,Books,Non-Fiction,Luna,102.22,77.42
+777,PW1LSXOV,Luna Toys STEM 777,Toys,STEM,Luna,136.15,104.89
+778,SCVDZQ8Z,Acme Fashion Womens 778,Fashion,Womens,Acme,128.69,71.72
+779,15SDJWMJ,Nova Electronics Mobile 779,Electronics,Mobile,Nova,141.03,103.47
+780,WMJQRMCW,Acme Books Fiction 780,Books,Fiction,Acme,81.65,44.25
+781,CDKHU0XD,Nimbus Sports Team Sports 781,Sports,Team Sports,Nimbus,94.5,74.44
+782,IULWERY0,Vertex Beauty Fragrance 782,Beauty,Fragrance,Vertex,62.82,49.89
+783,MG9H9NMH,Nimbus Beauty Haircare 783,Beauty,Haircare,Nimbus,205.08,109.61
+784,MAL0FN9A,Orion Home Storage 784,Home,Storage,Orion,88.4,55.07
+785,OPYU59WO,Pulse Electronics Mobile 785,Electronics,Mobile,Pulse,107.4,69.55
+786,GQX0JB4E,Acme Books Fiction 786,Books,Fiction,Acme,177.9,105.47
+787,7U0NADI2,Nimbus Sports Cycling 787,Sports,Cycling,Nimbus,76.58,47.54
+788,2UNIJYJ1,Pulse Sports Team Sports 788,Sports,Team Sports,Pulse,112.97999999999999,72.31
+789,X3SQ6LX8,Acme Beauty Makeup 789,Beauty,Makeup,Acme,91.09,55.41
+790,OWNR5VRZ,Nimbus Beauty Skincare 790,Beauty,Skincare,Nimbus,81.65,46.9
+791,JNJ4WW59,Luna Fashion Accessories 791,Fashion,Accessories,Luna,139.32,79.41
+792,HBKAZRGO,Vertex Sports Team Sports 792,Sports,Team Sports,Vertex,101.0,80.56
+793,TJQFSK1B,Pulse Home Decor 793,Home,Decor,Pulse,68.66,46.2
+794,CXX99WJ2,Acme Toys STEM 794,Toys,STEM,Acme,97.61,76.44
+795,KVNKK0AJ,Orion Electronics Laptop 795,Electronics,Laptop,Orion,111.47999999999999,76.69
+796,KOJKCA1Z,Aurora Fashion Accessories 796,Fashion,Accessories,Aurora,110.95,87.02
+797,MFEY1LYC,Echo Toys Puzzles 797,Toys,Puzzles,Echo,59.51,44.74
+798,G338KDMT,Nimbus Fashion Womens 798,Fashion,Womens,Nimbus,114.06,80.08
+799,LKWNOE9S,ZenX Electronics Accessories 799,Electronics,Accessories,ZenX,136.19,69.42
+800,7Z0LF46O,Echo Beauty Skincare 800,Beauty,Skincare,Echo,99.89,74.66
+801,HQG009E8,Vertex Electronics Camera 801,Electronics,Camera,Vertex,173.4,122.72
+802,0B3OVN5U,Aurora Books Non-Fiction 802,Books,Non-Fiction,Aurora,190.7,146.85
+803,2H1AMM3I,Aurora Books Non-Fiction 803,Books,Non-Fiction,Aurora,134.18,91.6
+804,5X7MTS0V,Nimbus Electronics Accessories 804,Electronics,Accessories,Nimbus,128.47,65.18
+805,KTGYIETP,Aurora Sports Cycling 805,Sports,Cycling,Aurora,117.3,92.26
+806,796TAQAJ,Aurora Beauty Makeup 806,Beauty,Makeup,Aurora,101.49,73.68
+807,OFXXF78V,Aurora Toys Puzzles 807,Toys,Puzzles,Aurora,87.34,60.76
+808,Q911A2PY,Luna Home Storage 808,Home,Storage,Luna,153.94,117.36
+809,5UEEM81E,Nova Books Comics 809,Books,Comics,Nova,125.7,71.89
+810,OLDI00QA,Nimbus Electronics Audio 810,Electronics,Audio,Nimbus,95.36,62.19
+811,49D8FAPK,ZenX Sports Outdoor 811,Sports,Outdoor,ZenX,119.93,81.75
+812,2SFSC4R7,Vertex Home Storage 812,Home,Storage,Vertex,169.85,134.47
+813,1B3L3DQJ,Orion Electronics Accessories 813,Electronics,Accessories,Orion,162.75,106.4
+814,S7N37XTX,Pulse Home Decor 814,Home,Decor,Pulse,42.33,25.5
+815,WYJ9G8BJ,Luna Fashion Womens 815,Fashion,Womens,Luna,100.09,56.57
+816,E0PF8PDX,Luna Beauty Makeup 816,Beauty,Makeup,Luna,72.78,38.06
+817,V0GKIAYW,Pulse Books Fiction 817,Books,Fiction,Pulse,100.77000000000001,57.62
+818,TPHJXC0J,Acme Electronics Audio 818,Electronics,Audio,Acme,219.62,160.88
+819,NPET1YY5,ZenX Beauty Haircare 819,Beauty,Haircare,ZenX,80.95,50.1
+820,P5HOU486,Nova Home Kitchen 820,Home,Kitchen,Nova,107.4,53.87
+821,U4NUVK3F,Nova Toys Puzzles 821,Toys,Puzzles,Nova,116.61,61.41
+822,JWMG57T3,ZenX Beauty Haircare 822,Beauty,Haircare,ZenX,168.07999999999998,132.72
+823,3RUX13VJ,Luna Electronics Audio 823,Electronics,Audio,Luna,89.82,60.95
+824,LIFXYZX0,Orion Fashion Accessories 824,Fashion,Accessories,Orion,101.45,54.1
+825,3DSB4ZQV,Vertex Sports Outdoor 825,Sports,Outdoor,Vertex,150.32999999999998,92.93
+826,KC8L777E,Luna Fashion Accessories 826,Fashion,Accessories,Luna,109.9,75.65
+827,6XUDT411,Nova Toys Action Figures 827,Toys,Action Figures,Nova,105.03,57.79
+828,P5BEZJ9N,Acme Home Storage 828,Home,Storage,Acme,58.21,40.53
+829,V82CP9AB,Aurora Sports Cycling 829,Sports,Cycling,Aurora,71.64,55.24
+830,OE3GWSI8,Echo Sports Team Sports 830,Sports,Team Sports,Echo,115.46,74.11
+831,9HASODXJ,Aurora Home Storage 831,Home,Storage,Aurora,90.13,67.11
+832,HW7FL58H,Acme Electronics Audio 832,Electronics,Audio,Acme,158.11,95.53
+833,44J0S0DU,Nova Home Kitchen 833,Home,Kitchen,Nova,197.7,122.69
+834,4YXO0JAY,Luna Beauty Fragrance 834,Beauty,Fragrance,Luna,125.05,82.03
+835,US1E9FOU,Acme Electronics Mobile 835,Electronics,Mobile,Acme,107.72,85.84
+836,M9O4HU1Y,Acme Sports Team Sports 836,Sports,Team Sports,Acme,191.0,115.04
+837,3SQ8FGDU,Pulse Toys Puzzles 837,Toys,Puzzles,Pulse,172.63,96.66
+838,6NP6TTRX,Acme Beauty Fragrance 838,Beauty,Fragrance,Acme,45.43,23.14
+839,G06GZSIP,Nimbus Home Bedding 839,Home,Bedding,Nimbus,65.71000000000001,46.58
+840,1CQ068WY,Pulse Sports Outdoor 840,Sports,Outdoor,Pulse,111.24,72.09
+841,IA1BOWH1,ZenX Books Academic 841,Books,Academic,ZenX,120.74,80.03
+842,KWEJLXVB,Luna Beauty Skincare 842,Beauty,Skincare,Luna,75.03,52.32
+843,QJ4A32LT,Pulse Home Bedding 843,Home,Bedding,Pulse,86.49000000000001,62.85
+844,L1XGY3BW,Orion Electronics Laptop 844,Electronics,Laptop,Orion,72.06,44.38
+845,PGOKN3P3,Vertex Electronics Audio 845,Electronics,Audio,Vertex,144.07999999999998,78.8
+846,ICU81895,Luna Sports Outdoor 846,Sports,Outdoor,Luna,98.38,62.09
+847,ROC1FO09,Vertex Beauty Skincare 847,Beauty,Skincare,Vertex,111.0,78.15
+848,KWL9I7K7,Orion Beauty Makeup 848,Beauty,Makeup,Orion,42.3,31.92
+849,9WI0JPXN,Pulse Fashion Womens 849,Fashion,Womens,Pulse,145.87,108.7
+850,LLCKUQUY,Aurora Toys Action Figures 850,Toys,Action Figures,Aurora,193.96,116.38
+851,1LSP93B7,Orion Toys Puzzles 851,Toys,Puzzles,Orion,218.93,126.93
+852,C4JFOKOY,Aurora Books Fiction 852,Books,Fiction,Aurora,81.44,54.38
+853,51N9H9L2,Vertex Toys Board Games 853,Toys,Board Games,Vertex,123.18,65.42
+854,39BGRHLZ,Vertex Books Fiction 854,Books,Fiction,Vertex,173.33,119.4
+855,I3VV81F9,Nova Sports Outdoor 855,Sports,Outdoor,Nova,158.1,125.55
+856,YW8L3ZT3,Nova Electronics Camera 856,Electronics,Camera,Nova,128.0,82.86
+857,DYFDFADT,Orion Fashion Shoes 857,Fashion,Shoes,Orion,133.14,84.7
+858,SZ491W2U,Aurora Sports Team Sports 858,Sports,Team Sports,Aurora,196.58,110.77
+859,XA0MY5Q3,Nimbus Beauty Makeup 859,Beauty,Makeup,Nimbus,114.71,85.14
+860,JDZ1SQFN,Acme Books Non-Fiction 860,Books,Non-Fiction,Acme,73.99000000000001,52.06
+861,1AF97N0W,Echo Electronics Mobile 861,Electronics,Mobile,Echo,118.08,82.15
+862,NFVKRU6Q,Echo Fashion Womens 862,Fashion,Womens,Echo,40.69,24.67
+863,PCF00RRG,ZenX Fashion Womens 863,Fashion,Womens,ZenX,83.74000000000001,53.89
+864,Q9NZ72W7,Vertex Home Kitchen 864,Home,Kitchen,Vertex,63.18,45.14
+865,ONXGW0K3,Acme Books Comics 865,Books,Comics,Acme,127.92,97.16
+866,CVR2G6IA,Nova Sports Team Sports 866,Sports,Team Sports,Nova,213.9,130.73
+867,Z8BX6Q21,Orion Books Academic 867,Books,Academic,Orion,177.9,134.49
+868,1YWBHN6G,Echo Home Kitchen 868,Home,Kitchen,Echo,152.78,87.79
+869,CZ1QXHT9,Luna Books Comics 869,Books,Comics,Luna,214.2,108.18
+870,K3NYCITA,Pulse Electronics Laptop 870,Electronics,Laptop,Pulse,60.22,35.25
+871,58HC0DR6,Orion Toys STEM 871,Toys,STEM,Orion,115.17,71.74
+872,3CDEWLU4,Orion Beauty Haircare 872,Beauty,Haircare,Orion,149.2,81.81
+873,Y8X7OO9J,Pulse Books Comics 873,Books,Comics,Pulse,122.29,89.54
+874,KPIDD5KW,Nova Electronics Mobile 874,Electronics,Mobile,Nova,189.51,106.4
+875,Z34X1KF8,Echo Electronics Audio 875,Electronics,Audio,Echo,178.31,128.85
+876,P9DURMHH,Nova Beauty Haircare 876,Beauty,Haircare,Nova,88.13,45.28
+877,8SY0K8AF,Orion Beauty Skincare 877,Beauty,Skincare,Orion,91.9,54.56
+878,X33LU9I5,ZenX Toys Action Figures 878,Toys,Action Figures,ZenX,52.95,33.95
+879,58DL8PC7,Pulse Sports Team Sports 879,Sports,Team Sports,Pulse,142.74,93.68
+880,V3ST6D75,ZenX Fashion Mens 880,Fashion,Mens,ZenX,106.72,69.83
+881,H2Z64QQ9,Vertex Sports Outdoor 881,Sports,Outdoor,Vertex,158.02,112.93
+882,RW44D8PJ,ZenX Fashion Accessories 882,Fashion,Accessories,ZenX,69.56,51.14
+883,HGN743VH,Pulse Fashion Mens 883,Fashion,Mens,Pulse,90.25999999999999,60.36
+884,PPEUFC3X,Nova Beauty Haircare 884,Beauty,Haircare,Nova,143.24,109.22
+885,HA9J9AEL,Luna Toys STEM 885,Toys,STEM,Luna,228.92,145.84
+886,V5HDF38M,Orion Books Comics 886,Books,Comics,Orion,126.52,83.35
+887,ARW8CF2N,Echo Fashion Womens 887,Fashion,Womens,Echo,204.18,111.63
+888,PP15HOD2,Pulse Beauty Skincare 888,Beauty,Skincare,Pulse,113.39,85.32
+889,RBR9ANCT,Luna Sports Team Sports 889,Sports,Team Sports,Luna,72.91,38.71
+890,N8W5BZP7,Luna Beauty Skincare 890,Beauty,Skincare,Luna,156.0,100.58
+891,J17VDUX7,Vertex Books Non-Fiction 891,Books,Non-Fiction,Vertex,188.67,141.58
+892,AU98X4MY,Orion Toys STEM 892,Toys,STEM,Orion,84.71,44.11
+893,HP9ZIGF4,ZenX Fashion Accessories 893,Fashion,Accessories,ZenX,76.96000000000001,53.41
+894,IDVC1P10,Nova Home Bedding 894,Home,Bedding,Nova,54.29,33.29
+895,JTP2XNDG,Nova Books Comics 895,Books,Comics,Nova,94.97999999999999,72.89
+896,WPSC0J9S,Orion Sports Fitness 896,Sports,Fitness,Orion,70.02000000000001,41.11
+897,2I61C0F2,Nimbus Sports Fitness 897,Sports,Fitness,Nimbus,135.04000000000002,74.59
+898,FCTB7APE,Vertex Beauty Makeup 898,Beauty,Makeup,Vertex,94.41,60.62
+899,94BPG1N5,Nimbus Books Comics 899,Books,Comics,Nimbus,88.89,54.52
+900,2MGY5I28,Echo Toys Puzzles 900,Toys,Puzzles,Echo,123.27,83.3
+901,VMR120MF,ZenX Electronics Mobile 901,Electronics,Mobile,ZenX,103.7,54.77
+902,CYSNFEJB,Nova Toys STEM 902,Toys,STEM,Nova,149.03,88.41
+903,FKIWNWS5,Echo Electronics Audio 903,Electronics,Audio,Echo,164.26999999999998,101.83
+904,SEUZR5A8,ZenX Fashion Womens 904,Fashion,Womens,ZenX,94.64,57.24
+905,R6LMH9IF,Vertex Sports Team Sports 905,Sports,Team Sports,Vertex,94.31,63.12
+906,OS92AFL8,Luna Beauty Fragrance 906,Beauty,Fragrance,Luna,141.51,86.66
+907,CJJDXL76,Orion Electronics Laptop 907,Electronics,Laptop,Orion,211.75,120.97
+908,XPGZUDPI,Nova Home Decor 908,Home,Decor,Nova,101.1,73.43
+909,OPP46F3S,ZenX Electronics Camera 909,Electronics,Camera,ZenX,91.49000000000001,60.33
+910,IEJIJOXJ,Pulse Beauty Haircare 910,Beauty,Haircare,Pulse,96.61,53.49
+911,1TWE4IJF,Aurora Beauty Makeup 911,Beauty,Makeup,Aurora,47.37,25.28
+912,WUTAI6OR,Nova Home Storage 912,Home,Storage,Nova,131.91,85.95
+913,4BDCJTLY,Aurora Home Furniture 913,Home,Furniture,Aurora,147.41,101.61
+914,GIGZ7VGS,ZenX Electronics Laptop 914,Electronics,Laptop,ZenX,161.65,94.02
+915,ID573VCU,ZenX Home Bedding 915,Home,Bedding,ZenX,128.61,82.19
+916,9SF31Q8U,Acme Fashion Mens 916,Fashion,Mens,Acme,79.6,55.39
+917,EUCI9WLZ,Vertex Fashion Shoes 917,Fashion,Shoes,Vertex,162.24,114.73
+918,JZZAKOD6,Aurora Home Decor 918,Home,Decor,Aurora,89.71000000000001,70.13
+919,MPL91J3J,Aurora Electronics Mobile 919,Electronics,Mobile,Aurora,109.62,64.11
+920,SD46U23P,Aurora Electronics Laptop 920,Electronics,Laptop,Aurora,98.52000000000001,70.86
+921,HS4LK2PO,Luna Home Bedding 921,Home,Bedding,Luna,284.78,148.33
+922,OF3KX19X,Vertex Electronics Laptop 922,Electronics,Laptop,Vertex,90.83,71.79
+923,QW0SY2YH,Nova Books Academic 923,Books,Academic,Nova,189.5,133.81
+924,M44KWF3U,Pulse Sports Fitness 924,Sports,Fitness,Pulse,71.17,42.2
+925,TOD4EYA1,Echo Beauty Skincare 925,Beauty,Skincare,Echo,78.25,47.29
+926,2ZLPM0MW,Acme Electronics Mobile 926,Electronics,Mobile,Acme,106.83,75.72
+927,LDL8D4V0,Nova Toys Puzzles 927,Toys,Puzzles,Nova,99.39,69.24
+928,3IPJ4BHV,Orion Electronics Camera 928,Electronics,Camera,Orion,90.95,50.59
+929,GBL6B56N,Nimbus Books Fiction 929,Books,Fiction,Nimbus,167.98000000000002,134.24
+930,Q5J109H4,Acme Toys Puzzles 930,Toys,Puzzles,Acme,216.77,135.3
+931,QFGY4RX3,Vertex Fashion Shoes 931,Fashion,Shoes,Vertex,87.13,47.34
+932,JF3V9T64,Aurora Home Bedding 932,Home,Bedding,Aurora,183.64,122.19
+933,5F0MIXB7,Orion Sports Fitness 933,Sports,Fitness,Orion,180.09,115.2
+934,YMHQZMDB,Aurora Home Decor 934,Home,Decor,Aurora,85.2,56.61
+935,RMU1UQIU,Vertex Home Kitchen 935,Home,Kitchen,Vertex,217.31,129.86
+936,K6F7AMP5,Orion Toys STEM 936,Toys,STEM,Orion,87.03,64.82
+937,0DSKCJPR,Orion Books Comics 937,Books,Comics,Orion,43.13,30.31
+938,ZTMSG993,Vertex Fashion Womens 938,Fashion,Womens,Vertex,61.4,36.13
+939,KDI844L5,Aurora Fashion Womens 939,Fashion,Womens,Aurora,71.1,44.48
+940,JO3TXLNG,Nova Sports Fitness 940,Sports,Fitness,Nova,108.64,76.67
+941,I652JWGP,Luna Toys Board Games 941,Toys,Board Games,Luna,83.39,52.98
+942,MVKXF54M,Pulse Beauty Fragrance 942,Beauty,Fragrance,Pulse,131.65,78.77
+943,GT5YPQFL,Pulse Sports Cycling 943,Sports,Cycling,Pulse,97.0,68.89
+944,FGRNNM3N,Echo Books Fiction 944,Books,Fiction,Echo,147.24,77.94
+945,QPEGOL5Z,Pulse Fashion Accessories 945,Fashion,Accessories,Pulse,144.56,98.73
+946,28DJHQ8F,Luna Toys Board Games 946,Toys,Board Games,Luna,89.08,64.27
+947,PXF425L0,Nimbus Books Academic 947,Books,Academic,Nimbus,142.74,84.96
+948,O8DECEL8,Acme Home Bedding 948,Home,Bedding,Acme,104.83,56.14
+949,E7PSDM8Y,Pulse Books Fiction 949,Books,Fiction,Pulse,147.92000000000002,85.92
+950,DWH928PV,Acme Home Furniture 950,Home,Furniture,Acme,89.08,58.35
+951,QWTMU7X4,Nova Home Bedding 951,Home,Bedding,Nova,83.86,52.35
+952,A2JDNI9T,Nova Books Non-Fiction 952,Books,Non-Fiction,Nova,137.20999999999998,83.32
+953,9WM94RQR,Pulse Toys Board Games 953,Toys,Board Games,Pulse,112.56,62.87
+954,PZJ4OL2D,Acme Sports Team Sports 954,Sports,Team Sports,Acme,79.32,43.2
+955,K6IG94JO,Aurora Toys Action Figures 955,Toys,Action Figures,Aurora,52.14,38.18
+956,48JXKWF4,Pulse Fashion Mens 956,Fashion,Mens,Pulse,106.75,62.0
+957,G3INV5IC,Luna Beauty Makeup 957,Beauty,Makeup,Luna,141.38,97.41
+958,AC47YDEX,Luna Home Storage 958,Home,Storage,Luna,70.8,40.11
+959,STGAS3PF,Nimbus Fashion Womens 959,Fashion,Womens,Nimbus,86.14,47.39
+960,SUVFASEN,Orion Electronics Camera 960,Electronics,Camera,Orion,49.88,30.15
+961,RFNS5JAE,Nova Electronics Camera 961,Electronics,Camera,Nova,120.26,83.03
+962,B3N8I6KE,Pulse Toys Action Figures 962,Toys,Action Figures,Pulse,83.67,50.28
+963,5WJCW15C,Vertex Home Furniture 963,Home,Furniture,Vertex,134.67000000000002,74.1
+964,7OIVQKBL,Acme Electronics Audio 964,Electronics,Audio,Acme,93.63,47.13
+965,TW9D69K2,Echo Toys Puzzles 965,Toys,Puzzles,Echo,97.03999999999999,65.18
+966,SB7HEH53,Pulse Books Academic 966,Books,Academic,Pulse,100.58,73.2
+967,NL1IAG3M,Vertex Home Furniture 967,Home,Furniture,Vertex,147.29,78.89
+968,LXT4J28L,Luna Fashion Accessories 968,Fashion,Accessories,Luna,36.989999999999995,23.86
+969,Z1W562WJ,Vertex Home Bedding 969,Home,Bedding,Vertex,124.14,64.87
+970,TWWHKDGQ,Echo Books Fiction 970,Books,Fiction,Echo,123.04,68.73
+971,NJEV9JO4,Echo Toys Puzzles 971,Toys,Puzzles,Echo,160.29000000000002,88.42
+972,4Y1JVWZN,Luna Toys Action Figures 972,Toys,Action Figures,Luna,164.82999999999998,90.44
+973,S73ZBG5M,Nimbus Sports Team Sports 973,Sports,Team Sports,Nimbus,54.46,27.8
+974,CRV10FFW,Nova Electronics Camera 974,Electronics,Camera,Nova,52.37,27.74
+975,6YNTIOIS,Nimbus Electronics Audio 975,Electronics,Audio,Nimbus,117.77,66.2
+976,F7A91UW8,Echo Sports Outdoor 976,Sports,Outdoor,Echo,104.47,74.25
+977,AN08EIBE,Luna Toys Puzzles 977,Toys,Puzzles,Luna,89.46,60.31
+978,2V9JZL76,Nova Fashion Mens 978,Fashion,Mens,Nova,115.58,88.86
+979,YT3MOAG2,Luna Toys STEM 979,Toys,STEM,Luna,122.62,86.41
+980,CULLV1DF,Nimbus Fashion Mens 980,Fashion,Mens,Nimbus,122.58,78.5
+981,Q13TYZO9,Nimbus Sports Outdoor 981,Sports,Outdoor,Nimbus,142.39,84.19
+982,16NY5Z2H,Aurora Sports Team Sports 982,Sports,Team Sports,Aurora,42.45,26.19
+983,AYPOBM1L,Pulse Books Comics 983,Books,Comics,Pulse,106.65,76.05
+984,VN4H2QNH,Pulse Books Fiction 984,Books,Fiction,Pulse,107.97,75.89
+985,6HNQVLO3,ZenX Sports Team Sports 985,Sports,Team Sports,ZenX,86.92,47.6
+986,Y8WL7QP6,Nimbus Home Storage 986,Home,Storage,Nimbus,108.41,57.4
+987,GDQ2262P,Luna Sports Team Sports 987,Sports,Team Sports,Luna,100.32,71.22
+988,EO29WTQE,Acme Electronics Audio 988,Electronics,Audio,Acme,123.14,85.72
+989,W8HNPO23,Acme Toys Board Games 989,Toys,Board Games,Acme,156.45,94.27
+990,46QRHN62,Nimbus Books Non-Fiction 990,Books,Non-Fiction,Nimbus,64.89,42.98
+991,LWBZNBDC,Acme Electronics Laptop 991,Electronics,Laptop,Acme,109.05,56.1
+992,4GLCLFJM,Aurora Fashion Accessories 992,Fashion,Accessories,Aurora,142.18,76.62
+993,AN0S05B5,Echo Books Non-Fiction 993,Books,Non-Fiction,Echo,95.03,56.23
+994,K1G9RVE0,Nimbus Fashion Shoes 994,Fashion,Shoes,Nimbus,62.6,32.98
+995,VU4VALDZ,Nova Beauty Fragrance 995,Beauty,Fragrance,Nova,117.61,65.18
+996,VVF6EIC0,Acme Fashion Womens 996,Fashion,Womens,Acme,111.52000000000001,87.68
+997,RQ3CD9ZN,ZenX Sports Cycling 997,Sports,Cycling,ZenX,172.57,119.94
+998,RKQT8SYL,Nimbus Sports Outdoor 998,Sports,Outdoor,Nimbus,94.82,59.99
+999,TAODAVV8,Pulse Electronics Audio 999,Electronics,Audio,Pulse,113.79,86.83
+1000,F8KC173W,Aurora Home Furniture 1000,Home,Furniture,Aurora,33.61,16.84
